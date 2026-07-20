@@ -33,6 +33,14 @@ This dump's "the brain... is still hosting sick" language is a strong echo of th
 - A single un-neutralized SICK target can spiral fast: "2 sick can equal a war." At that scale it's not a matter of designated fighters taking a shift — "everyone can fight, everyone must fight." SICK has to be dealt with swiftly within humanity's borders, or it can cost a whole state to the RAD.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶14
 
-## The naming taboo (carried from the harness doc, still open)
-- Floated previously as a mechanic where saying "sick" out loud could trigger it. This dump uses the word "sick" freely and repeatedly in plain narration/planning language, same as other sessions. See OPEN_QUESTIONS.md.
+## The naming taboo — concrete visualization (still explicitly tentative, not confirmed universal)
+10die's own hedge, given right after describing this, matters as much as the idea itself: "I don't know if that's gonna be for all of them. Maybe for some. Maybe... I don't know." This is a floated idea being tried out loud, not a locked rule — see OPEN_QUESTIONS.md.
+
+- **Solo/private trigger, as visualized by 10die:** standing alone with someone in a park, saying "sick" causes the speaker to black out on the spot. They come to covered in blood with a corpse at their knee, and run. 10die's own definition of what SICK is, from inside this image: "to be sick is essentially to switch yourself off, at/next to someone... with the hope that you are able to come back after you end [it]" (raw says "end the limb" — very likely garbled in transcription, possibly "end the life"; preserved as spoken rather than silently corrected).
+- **Social/panic-chain trigger, offered as a second, looser variant:** two people standing together; one is stressed/on edge ("crest" in the transcript — likely "stressed," not corrected) and says "sick," almost as a release; the other panics and reacts violently (a punch or similar), played with dark humor, laughing — and 10die frames *that reaction* as what "secretes"/activates SICK, i.e. possibly not the word alone but the panicked violent response to it.
+- Not specified whether this applies to RAD, humans, or both — the scenario just says "someone," with no species markers either way.
+  source: raw/2026-07-20-brainstorm-session-3.md, ¶17
+
+## The naming taboo — status (carried from the harness doc, still open)
+- Floated previously as a mechanic where saying "sick" out loud could trigger it. Earlier dumps use the word "sick" freely and repeatedly in plain narration/planning language, same as other sessions — that's 10die talking *about* the story off-screen, not a claim about how characters would behave on-screen, so it doesn't by itself disprove the taboo. See OPEN_QUESTIONS.md.
   source: raw/2026-07-16-brainstorm-session.md, ¶9

@@ -26,6 +26,7 @@ Living doc. Unresolved contradictions and undecided names go here — not silent
 
 - **The SICK naming taboo** — floated as a mechanic (saying the word can trigger it) but characters say "sick" freely throughout other sessions, including this one (¶9 uses "sick" repeatedly in plain dialogue-adjacent narration). Decide if this is a universal rule, a localized/regional superstition, or scrapped.
   source: raw/2026-07-16-brainstorm-session.md, ¶9
+  **Update (raw/2026-07-20-brainstorm-session-3.md, ¶17):** 10die gave a concrete visualization of the taboo — saying "sick" causes an instant blackout, waking up mid-aftermath with blood and a corpse — plus a looser variant where a panicked violent reaction to someone saying the word is what actually "activates" it. He explicitly does not commit to this applying universally: "I don't know if that's gonna be for all of them. Maybe for some." Still open, but now with real texture behind it rather than just a rejected/unclear rule. See mechanics/sick.md.
 
 - **Meta-constraint, not a story fact:** Winter must never be explicitly confirmed on-screen as an ASI. The audience/critics should be left to speculate. This is a writing rule, not something a future mining pass should "resolve." [No new raw citation in this dump — this dump's ¶9 describes Winter as "genuine artificial sentience" in 10die's own planning notes, which is fine since that's off-screen worldbuilding talk, not on-screen dialogue/narration. Keep the meta-constraint intact.]
 
