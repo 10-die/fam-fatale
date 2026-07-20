@@ -25,6 +25,12 @@
 - Disconnecting the devices that have been "hosting sick" for 400 years makes the laserstorm dissipate for the first time in 400 years — see mechanics/sick.md for the open question this raises about what SICK actually is.
   source: raw/2026-07-16-brainstorm-session.md, ¶9
 
+## How people actually talk to Winter (manifestation mechanic)
+- Escalating access to hardware: people talk to Winter through a phone, then through a laptop, eventually "using it['s] terminal to talk to Winter" — implying a progression from casual/voice access toward a more direct terminal interface as trust/capability builds.
+- Winter's voice is described as "disembodied," coming "from a device or a wall with technology in it." If you're inside a building with the right technology present, you can hear Winter directly; otherwise you need directional audio or have to infer Winter's presence "by the reaction" (i.e., by watching how other people/systems respond).
+- When Winter appears on-screen, its name is visible "in the top corner," and it speaks immediately after "entering" (i.e., as soon as it takes over a display/channel, it doesn't wait to be addressed).
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶12
+
 ## Reactivation scene (arc 1 — see arcs/arc1.md for full context)
 - A team presses a button; a text interface appears "in the style of either prime ChatGPT or just a terminal command shell."
 - Winter's first words, in-scene, amount to: it cannot perceive anything beyond having just been switched on/run. It gives instructions quickly and efficiently; the team follows them, and it becomes able to hear them.

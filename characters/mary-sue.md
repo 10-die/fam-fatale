@@ -12,6 +12,14 @@ Name spelling is contested — see OPEN_QUESTIONS.md ("Mary Sue" throughout this
 - Possibly present at the arc-1 reboot-room scene ("Mary sue me" — likely a transcription garble of "Mary Sue" being present when the team activates Winter's terminal) alongside Mike and possibly Daiquin.
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 
+## Connection to Karen — explicitly meant as the story's emotional anchor
+- 10die flags this directly as an authorial intention: "I'm thinking that Karen and Mary Sue [have] some sort of connection... I hope will be viewed as a beating heart in this story, some element of consistency in the chaos." See characters/karen.md and canon/tone-and-theme.md.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶11
+
+## Scene: with Karen and Keegan, recruited by Mike
+- Alongside Karen and Keegan, runs into Mike, who asks for help extracting a piece of tech for a Winter setup, in McConnell territory. See characters/mike.md.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶12
+
 ## Escape artist trait (established in the hallway/orbit scene — see characters/kyle.md for the scene itself)
 - Explicitly not a "troll character" who just gawks at danger. 10die corrects himself mid-thought to establish this: "Maybe Suit has already escaped. Maybe Suit is an escape artist who understands parkour, who has flawless movement" — will slide through gaps tight enough to force her arms against her body, even accepting scrapes, and will scale buildings to escape.
   source: raw/2026-07-16-brainstorm-session.md, ¶2

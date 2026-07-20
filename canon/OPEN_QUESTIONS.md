@@ -33,6 +33,7 @@ Living doc. Unresolved contradictions and undecided names go here — not silent
 
 - **What SICK actually is — biological/addiction vs. tech-hosted phenomenon.** Earlier framing (via the assistant's pitch synthesis, ¶4, and general sessions) treats SICK as an addiction — RAD getting a literal high off taking damage. This dump's closing paragraph (¶9) instead frames SICK as something *hosted on 400-year-old devices* that "someone" has been secretly keeping powered — disconnecting those devices makes "the lazerstorm dissapiats for the first time in 400 years." That reads like SICK / the laserstorm has a technological, not purely biological, root. These may not be contradictory (tech could be the *cause*, addiction the *symptom*) but it's not stated that way — logged as open rather than assumed reconciled.
   source: raw/2026-07-16-brainstorm-session.md, ¶9 vs. ¶4
+  **Update (raw/2026-07-20-brainstorm-session-2.md, ¶15):** a second dump independently uses the same word — "hosting" — for a human brain running SICK ("the human brain... is still hosting sick") that it earlier used for the 400-year-old devices. That's a strong echo, and points toward SICK being an information pattern/workflow that can run on either substrate. Still not stated as an explicit equivalence by 10die, so still open — but this is meaningfully more evidence toward reconciliation than contradiction now. See mechanics/sick.md.
 
 - **Karen vs. O'Karen.** The harness doc's known-threads list only flags Karen's cut-off origin. This dump's closing "main characters" list (¶9) names "O'Karen" instead of "Karen." Unclear if this is the same character with a fuller name, a typo/transcription artifact, or a different character entirely.
   source: raw/2026-07-16-brainstorm-session.md, ¶9 (compare canon/characters/karen.md, sourced from the harness doc)
@@ -48,3 +49,23 @@ Living doc. Unresolved contradictions and undecided names go here — not silent
 
 - **"Day queen" / "Daiquin" — likely the same name as deyKwein, transcribed differently each time it's spoken.** This dump uses three different spellings for what reads like one name, in three separate spots: (1) "except for one day queen because I couldn't kill day queen in the fight... I've killed every rad at this point that has tried to run" — a RAD Loading could not kill; (2) "the whole Mary Sue decree meeting... Mary Sue gets caught up in this. All of a sudden, she was just fucking around the day queen having that moment" — Mary Sue involved with a "day queen" at some kind of meeting; (3) "And maybe Daiquin? Mhmm. Maybe Daiquin has learned how to be tamed" — in the arc-1 room where Winter reboots. Given "deyKwein" is a voice-transcription name already established as unstable (it later got corrected to Keegan), "day queen" and "Daiquin" are very plausibly the same underlying name mis-heard three ways, not three different characters. If true, it would mean Keegan/deyKwein is the RAD Loading couldn't kill, is present at whatever the "decree meeting" is with Mary Sue, and appears (or is discussed) in the arc-1 reboot room having "learned to be tamed" — i.e., partially integrated with the human team. Logged as open rather than merged into characters/keegan-deykwein.md, since 10die never says these are the same character.
   source: raw/2026-07-16-brainstorm-session.md, ¶1
+
+## New from raw/2026-07-20-brainstorm-session-2.md
+
+- **Karen may be a McConnell** — i.e. a RAD from McConnell territory (see forces/rad-territories.md), which would complete the harness doc's still-open "Karen is a RAD from a—" origin sentence. But 10die arrives at this as a live guess ("what if that's Karen — wait, Karen is a McConnell"), not a flat statement, so it's logged as a strong lead rather than resolved fact. See characters/karen.md.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶12
+
+- **King's origin — two different creation stories, not reconciled.** The first dump has King appointed by the ancient custodian robots as leader of humanity's governing group. This dump instead gives King a detailed biographical origin as a former President of the United States who tore up and audited the Constitution, governed by livestream/direct democracy, and whose model spread — starting with South Korea — into what eventually became the global King role ("incorinated"/incarnated). 10die doesn't connect these two origin stories to each other in either dump. Could be sequential (elected head of state under this model in multiple countries, then formally installed as supra-national King by/with the robots) but that's a guess, not stated. See characters/king.md.
+  source: raw/2026-07-16-brainstorm-session.md, ¶1 vs. raw/2026-07-20-brainstorm-session-2.md, ¶16
+
+- **"The only one percenter"** — 10die's own aside about King during the immigration-reform passage, meaning unclear. Could imply King retains some reserved 1% stake/authority while citizenship is otherwise fully shared; could be something else entirely. Not explained further in this dump.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶16
+
+- **"...convince enough neighbor's and you've got a park"** — garbled word, almost certainly not literally "park." Best guesses are "pardon" or "path [to citizenship]," but neither is confirmed. Preserved as spoken in characters/king.md rather than silently corrected.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶16
+
+- **The body-parts fragment** — "then two humans may you see your mic and then I see body parts an arm caring gets feet and just moves quickly" is too garbled to safely interpret. Not mined into any canon file; flagged here in case a later, clearer session revisits the same image.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶12
+
+- **"Labotimised"** — 10die's own term (spelled as transcribed) for what has to happen to a SICK target to stop the escalation risk King describes ("if that sick is not labotimised, humanity must prepare for a war"). Read in context as roughly "neutralized/destroyed" (echoing the "destroy the brain" corpse-mode mechanic in mechanics/sick.md), but not explicitly defined as its own term — flagged rather than assumed identical to the brain-destruction beat.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶14

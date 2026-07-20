@@ -9,3 +9,7 @@ See OPEN_QUESTIONS.md — "Michael40kull" appears once, in the closing character
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 - Per the assistant's in-session roster (flag as summary, not 10die's own words): "arc 1, tech investigation team."
   source: raw/2026-07-16-brainstorm-session.md, ¶6
+
+## Scene: recruiting Karen, Mary Sue, and Keegan
+- Mike runs into Karen, Mary Sue, and Keegan and asks for help getting close enough to recover a piece of technology in McConnell territory (see forces/rad-territories.md) — part of "this Winter thing that we're trying to set up," confirmed present but missing something, requiring physical extraction. See characters/karen.md and mechanics/sick.md.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶12

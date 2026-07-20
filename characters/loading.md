@@ -39,6 +39,14 @@
 - Loading's own reasoning for engaging with Winter this way: "I understand that, but time is finite. I'll probably be here for thousands of years, and every second counts."
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 
+## Self-concept — quotable line
+- In arc 1: "I'm not alive, I exist." Given directly as Loading's own words, not a description of him — worth preserving verbatim for dialogue use.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶12
+
+## Quiet-gift character beat
+- Loading builds the team a "plunky jet" early on, without announcing it — the team just starts using it in a few situations, and he "encourages them to use the jets for transit" rather than making a show of it. The reveal plays out as the team noticing on their own, at the start of an episode: "wait a minute, we are... in the jet that wasn't there last time — oh snap, wait, that's cool, that's new." Consistent with the established "Loading only says what he needs to say" trait — he shows care through function, not announcement.
+  source: raw/2026-07-20-brainstorm-session-2.md, ¶15
+
 ## Notable beats (see arcs/arc2.md for full scene breakdowns)
 - Wedding-lake assassination sequence: kills a "loud"/pro-SICK RAD groom(?) mid-vow after they shoot the bride into a lake; Loading knocks them out mid-air, watches them sink, retrieves the body, kills them, then wave-slams the entire wedding reception before flying off.
 - Chad-city near-kill interrupted by Winter's own directive (abducting someone from the White House) — see arcs/arc2.md.
