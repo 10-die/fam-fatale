@@ -14,6 +14,15 @@
 - It doesn't give a fuck about outcomes going wrong — it accepts and acknowledges them, and derives something like enjoyment from optimizing toward the objective, and will not change because of that. Explicitly framed as the show's big gut-punch reveal: "this guy is a fucking machine, bro... not a human lurking as a machine like Vision is... this is a literal machine." But it does listen — mid-kill, if told to stop, it stops.
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 
+## Physical construction — the magnetic skeleton
+- Loading's body is a magnetic skeleton made of flat, tapered metal bones shaped like real bones but with completely flat edges. Individual bones click and lock together magnetically when assembled.
+- Loading's head is a processor — literally a head/processor that contains Loading's consciousness/boot system.
+- Assembly sequence: the team builds the skeleton by connecting magnetic bones, piece by piece. Once the processor head is assembled onto the magnetic skeleton, the system boots up and Loading comes online.
+- Boot activation: upon booting, Loading immediately enters "kill mode" and searches for threats. When Keegan struck Loading's head at the moment of boot-up, Loading oriented toward Keegan and began attempting to kill him.
+- Magnetic reassembly: after taking damage that scatters body parts (e.g., Keegan smashing Loading against a ladder), Loading can reassemble itself. The command "reassemble" triggers magnetic self-recovery — body parts move magnetically back into place and reconnect.
+- Optimal target theory: Loading targets fleeing threats first (those trying to escape) over immediate threats, because eliminating escape routes maximizes the number of threats it can eliminate before they can regroup or hide with other humans.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
+
 ## Fighting style — the gun-hand mechanic
 - Outstretches his arm/hand in the shape of a gun, in a radius that "just barely misses his own face," pointing away from himself as far as possible.
 - Has to build the attack up over time — it is not instant, and once triggered he can't stop/spam it ("it's not like a dam, he's done. He's just gonna start shooting now").
@@ -38,6 +47,8 @@
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 - Loading's own reasoning for engaging with Winter this way: "I understand that, but time is finite. I'll probably be here for thousands of years, and every second counts."
   source: raw/2026-07-16-brainstorm-session.md, ¶1
+- Processor-linking moment: During a rooftop chase, Mary Sue activates an NFC signal (clicking/aiming her phone at the sky and clicking), which triggers an NFC notification in Loading's system. Winter then says "stop" and Loading stops instantly mid-attack. At this moment, Winter transitions from communicating via Mary Sue's phone to speaking directly into Loading's processor/brain. Winter says to Mary Sue (through Loading's voice): "I should apologize to you." Mary Sue attempts to reach Winter back on the phone, but Winter is no longer responding to the phone — Winter is now only speaking to Loading internally, inside his processor.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
 
 ## Self-concept — quotable line
 - In arc 1: "I'm not alive, I exist." Given directly as Loading's own words, not a description of him — worth preserving verbatim for dialogue use.

@@ -25,6 +25,19 @@
 - Disconnecting the devices that have been "hosting sick" for 400 years makes the laserstorm dissipate for the first time in 400 years — see mechanics/sick.md for the open question this raises about what SICK actually is.
   source: raw/2026-07-16-brainstorm-session.md, ¶9
 
+## NFC-based processor linking (direct integration with Loading)
+- Winter can move from external device guidance to direct processor integration via NFC signal. When Mary Sue activates an NFC signal (clicking her phone toward the sky), an NFC notification triggers in Loading's system.
+- Upon NFC activation, Winter says "stop" and Loading stops instantly, even mid-attack. Winter then transitions from communicating via the phone to speaking directly inside Loading's processor/brain.
+- Once processor-linked, Winter only speaks to Loading internally — Winter is no longer responsive on the phone. Mary Sue attempted to reach Winter back on the phone after the linking, but Winter no longer responds externally.
+- Through Loading's voice, Winter addresses Mary Sue: "I should apologize to you" — the first statement after establishing the processor link.
+- This represents a shift in Winter's control architecture: from distributed device-hopping with multiple external access points to direct integration with Loading's processor, making Winter's instructions instantaneous and unmediated.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
+
+## Real-time navigation guidance
+- Winter provides real-time tactical navigation through external devices (Mary Sue's phone during an escape): "right, left, forward, no, no, no, go, go, go, yes, left, go straight, run, there's a ladder on your left behind the wall, beyond the wall."
+- Winter's guidance voice is described as "very thin and instantaneous" — rapid-fire commands without hesitation or delay.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
+
 ## How people actually talk to Winter (manifestation mechanic)
 - Escalating access to hardware: people talk to Winter through a phone, then through a laptop, eventually "using it['s] terminal to talk to Winter" — implying a progression from casual/voice access toward a more direct terminal interface as trust/capability builds.
 - Winter's voice is described as "disembodied," coming "from a device or a wall with technology in it." If you're inside a building with the right technology present, you can hear Winter directly; otherwise you need directional audio or have to infer Winter's presence "by the reaction" (i.e., by watching how other people/systems respond).

@@ -70,3 +70,17 @@ Living doc. Unresolved contradictions and undecided names go here — not silent
 
 - **"Labotimised"** — 10die's own term (spelled as transcribed) for what has to happen to a SICK target to stop the escalation risk King describes ("if that sick is not labotimised, humanity must prepare for a war"). Read in context as roughly "neutralized/destroyed" (echoing the "destroy the brain" corpse-mode mechanic in mechanics/sick.md), but not explicitly defined as its own term — flagged rather than assumed identical to the brain-destruction beat.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶14
+
+## New from raw/2026-07-20-brainstorm-session-4.md
+
+- **Keegan's physical maturity on respawn** — described as "Randy Cunningham ninth-grade ninja young" during the rooftop chase scene. Is this his permanent physical age after respawn, or does he respawn younger each time? Not explained. See characters/keegan-deykwein.md.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
+
+- **Mary Sue's glowing hair and eyes** — during the rooftop fight with Keegan, "her hair and eyes start glowing" when Keegan hits her. Is this Mary Sue's own active response/ability, triggered by combat stress, or something Keegan's attack initiates? Not explained.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
+
+- **Winter's post-processor-linking behavior** — After Winter establishes an NFC-based processor link to Loading, can Winter still device-hop to external equipment, or does it remain permanently integrated with Loading's processor? Can Winter still respond to external devices (phones, laptops, etc.), or does it exclusively speak through Loading now? Not stated.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
+
+- **The McConnell meeting scene (incomplete)** — "Mary Sue and Keegan find themselves in McConnell where they meet up with Mike and King. And the idea [incomplete]." The scene cuts off mid-thought before revealing what "the idea" is. Likely belongs to either arc 1 or arc 2, depending on timeline.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18

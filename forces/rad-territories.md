@@ -15,3 +15,7 @@ At least two named RAD territories/polities surface in this dump. Both names com
   source: raw/2026-07-20-brainstorm-session-2.md, ¶15
 - The RAD leadership more broadly is described (possibly referring to McConnell specifically, possibly RAD leadership in general — not disambiguated) as "sick to the core but [a] technocratic state that has made the last 400 years of fighting brutal... for the human side."
   source: raw/2026-07-20-brainstorm-session-2.md, ¶15
+- **Fighting culture:** McConnell territory has a televised fighting culture where combat is entertainment and spectacle. Killing each other serves as both dispute resolution and weekend recreational activity — casual violence normalized as leisure.
+- **Territory danger:** Entering McConnell territory is described as "what a suicidal maniac will do" — few have tried, none have returned. The odds of survival are drastically lower than any other territory because of the saturation of active RAD champions at or near prime strength. Encountering multiple champions in prime simultaneously is a scenario humans/Gucci fighters are not equipped to handle.
+- **Linked fighter consequences:** When linked fighters lose a fight in McConnell territory, the survivors wake up knocked out and disoriented — the physical link means they share the traumatic cascade of the loss, leaving them vulnerable and unable to act immediately.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
