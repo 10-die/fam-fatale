@@ -105,8 +105,76 @@ The team we follow in arc 2 comes from the third side — that's where they shin
 ## Setting / timeline
 
 - Winter's corruption: ~2100.
-- Sick domination of Red territories: 200–400 years.
-- Story set in **2223 or 2423** — still deciding.
+- Sick domination (with Winter) of Red territories: leaning **400 years**.
+- Story set in the **2400s** (current lean; earlier candidates were 2223/2423).
+- **Winter is freed early** — maybe the second episode of the first arc — and from
+  then on is helping the team.
+
+## How humans fight: shadows
+
+- Humans don't necessarily fight — or maybe they do, but they're **aided by their
+  shadows**.
+- The shadows look like **robotic stick figures** that move like robots, the sticks
+  connected by **magnetism**. Each one literally *is* the shadow of its human, and
+  fights with them.
+- If a human dies, **a shadow runs to go respond**.
+- Refinement mid-dictation: maybe this isn't all humans — it's **a group of humans**
+  who do this. That's *their* way of responding.
+
+## Rebuilding humans: the vat
+
+- Other humans look to the **government** to recreate people — a massive system, a
+  giant vat of trillions of giga-trillions of gallons of chemicals, with the pressure
+  concentrated at the center, where **a human is being born, being created**.
+- The chemicals are a combination of nutrients, oxygen, hormonal control — everything
+  good for a growing baby.
+- The point of the mechanic: it is **laborious to rebuild humans**. Human lives are
+  valuable, and you see that in human behavior.
+- *Why* valuable: **every lost human is an advantage to the RAD** — toward making
+  every human a fighting human, every human radioactive.
+
+## Human emotional culture
+
+- Humans are hardened while being **very emotionally mature**. Tough as nails, stoic.
+- When something goes horribly wrong or fate twists terribly, they don't break down —
+  and crucially, the other humans **don't let them break down alone**. The support is
+  immediate and communal.
+- That fosters a deep connection where they end up **laughing together, enjoying the
+  moment, despite it being centered on something tragic**.
+- Over time, a human's acceptance of tragedy is **clear, not rushed**:
+  > "Wow. That's tragic. I will miss them. We must go."
+
+## RAD memory: the uncompressed context window
+
+- Unlike humans — and red humans, to an extent — **RAD keep their memories when they're
+  reborn**.
+- It's as if the context window never compresses: a memory from the 2000s can carry
+  **the same weight as a memory from an hour ago**.
+- Across the whole 400-year stretch of Red dying and being reborn in laserstorms, that
+  continuity accumulates. [Dictation cut off here — the implication of four centuries
+  of full-weight memory is a thread to pull.]
+
+## Protagonists and structure
+
+- **No protagonists yet.** Several contenders, and each gets the attention required to
+  learn what they want and why — trials and tribulations, the calm times, their lives,
+  their deaths, and the pain of that family.
+- When they die, **we miss 'em too**. We remember *learning about them*, not being
+  forced to like them. That's why it's authentic — these are real people.
+- They are not maliciously insecure. They are **dangerously, violently righteous**.
+- The characters who end up being the main characters won't be obvious — **everyone who
+  watches will have their own main characters, because the world drives the story**.
+- Many characters, many stories happening at the same time — but all linked. And where
+  they aren't linked yet, they *will* link in significant and meaningful ways.
+- The payoff of the structure: **two groups of individuals you have watched struggle
+  and thrive go up against each other — and you know only one of them can win.** The
+  other team dies. And there are no more of them for a while, until they come back
+  after some time.
+
+## Mike
+
+- **Mike lost his family — but not to death.** (Flagged as a beautiful idea;
+  undeveloped. What "lost, but not to death" means is the hook.)
 
 ## Narrative philosophy (how to write this)
 
@@ -132,8 +200,16 @@ The team we follow in arc 2 comes from the third side — that's where they shin
 
 ## Open questions / garbled bits to resolve
 
-- Setting year: 2223 vs 2423.
-- Duration of Sick's domination: 200 vs 400 years.
+- How is Winter **freed** in episode ~2? Who or what frees it, and does the team know
+  its history when it starts helping them?
+- Terminology to pin down: **Red vs RAD vs red humans** — sometimes used
+  interchangeably in dictation, sometimes distinctly (e.g. "red humans" lose memories
+  "to an extent" while RAD keep theirs fully). Are Red the respawning laserstorm-born,
+  RAD the faction/territory, and red humans the human-side addicts/hybrids?
+- Mike: how do you lose a family *not* to death here? (Sick? The wall? The vat?
+  Defection to another side?)
+- Shadow-fighters: what binds a shadow to its human, and what happens to the shadow
+  after its human dies and it "responds"?
 - The human server Winter's un-sick part detected: who built it, what had those humans
   discovered, and when relative to the present of the story? The dictation cut off
   mid-thought here ("a new server created by the humans who had discovered—").
