@@ -69,6 +69,9 @@ The rad version:
 
 ## 6. Keegan / King
 
+> **Update (part 2):** Keegan and Sick are siblings. See `2026-10-05-keegan-and-the-sick.md`.
+
+
 - Core trait: **Keegan does not disengage.** Nearly every other rad eventually walks away from a fight. Keegan doesn't.
 - ~~Earlier idea: Keegan doesn't fight. He walks toward other rad, who then have to kill whatever is chasing him, and damage Keegan takes passes to those rad.~~ *Second thoughts: too complicated.*
 - **Current direction: keep Keegan simple.** Keegan doesn't play games. Keegan fights to kill.
@@ -91,7 +94,7 @@ Rad economic life:
 
 ## Open questions
 
-1. **"Sick": a character, a faction, or both?** In the balcony scene Sick reads as one person. In "they're not sick" it reads as a condition or way of life (the rad who eliminate others). Is Sick the purest form of the sick?
+1. ~~**"Sick": a character, a faction, or both?**~~ *Both. Sick is Keegan's sibling, fused with the sick (see part 2).* In the balcony scene Sick reads as one person. In "they're not sick" it reads as a condition or way of life (the rad who eliminate others). Is Sick the purest form of the sick?
 2. **Keegan and the Deguccis.** If disengaging is normal Degucci culture and Keegan never disengages, is Keegan a Degucci who breaks the rule, or someone from outside it?
 3. **Is "King" a title or a name?** Do people call Keegan King because he takes on the sick kingdoms?
 4. **The kill feed in-world.** What is it? Everyone sees it, including humans. Is it a product of the "death isn't final" awareness, a system, or something tech-based?
