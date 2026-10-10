@@ -21,6 +21,7 @@
 - She keeps going into **Deguchi territory** to feed her addiction.
 - She fights the local rad and escapes. They follow briefly, then peel off to fight whatever's closer.
 - **Keegan doesn't peel off.** Keegan hyperfocuses and chases her, in front of a huge viewer base and an active chat. She's fed up and harassed under threat of assault. She doesn't want any part of the popular fighting king.
+- **She knows the rules and uses them.** The other strong Deguchi rad hunt her too, but she can count on another rad's punch to pull them into a new fight. **That trick doesn't work on Keegan.**
 - Her addiction eventually **leads her to McConnell territory**, where Arc 1 hits its fever pitch.
 
 ## Arc 2

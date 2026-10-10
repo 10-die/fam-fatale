@@ -8,6 +8,29 @@
   - Exception: **Keegan**, who hyperfocuses (see [../characters/keegan.md](../characters/keegan.md)).
 - A rad's **greeting is a punch.** A human greets another creature by sending energy toward it so it can be perceived. A rad does that with its fist.
 
+### How rad approach you
+
+- **All rad want to fight**, but they get there differently.
+- **Indirect rad** are coy about it. They drift toward you sideways and take their time.
+- **Direct rad** walk straight at you and start a fight. Only two kinds do this: **sick rad and Keegan.**
+
+### The brawl contract
+
+This is what makes healthy rad territory **safe enough for humans to live in.**
+
+1. **A healthy rad will fight you, and it won't go easy on you.**
+2. It wants **a quick brawl**: a few seconds of back-and-forth swinging, not a title fight that runs for minutes.
+3. **Land a few blows back and it's satisfied.** *Mm, thank you.* Then one of two things happens:
+   - **It leaves.**
+   - **If the fight was really interesting, it tries to bond with you a little.** It gets almost affectionate. **If you don't want that, it leaves.**
+4. **Keegan does not leave.**
+
+### Nervous-system sharing
+
+- After a fight, rad **share nervous-system data** with whoever they fought, rad or human.
+- That lets them **intuit the other's needs.**
+- It may go as far as **reading emotions directly.** If the human starts thinking negative thoughts, the rad **feels uncomfortable.**
+
 ### Bonding (radioactive synapses)
 
 - Rad **bond fast and part fast**: you're family for a moment, then you never see them again.
@@ -21,6 +44,10 @@
 - Where rad die often (especially in sick territories), the radiation builds into a **cloud of radioactive blood gas**.
 - The cloud fires a **red laser beam** down at the biomass on the ground, and **the rad is reborn.**
 - **Memory survives**, because the rad was in the cloud while it was dead.
+- **Rebirth rule (proposed):**
+  - **Got a kill before you died?** You're reborn **almost immediately.**
+  - **No kill?** You **dissolve into the atmosphere** and join the accumulating blood mist. Eventually you're **batch reborn** with everyone else in it.
+- **The cloud's look:** a blood mass that keeps growing, **ripping and tearing itself.** It's a **vortex made of vortexes**, wrenching the sky one way, then the other.
 - **The cloud is a dream / virtual server** hosted by all of that radiation. Inside it, rad can **see from the perspective of the rad (or human) they recently interacted with.**
   - The dump says *"that's where Mary Sue comes in"* (see [../characters/mary-sue.md](../characters/mary-sue.md)).
 - Planet-wide, this shows up as the **laser storm**: a mesh of radiation over the whole planet. Humanity eventually absorbs it (see [technology.md](technology.md)).

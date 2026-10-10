@@ -12,6 +12,7 @@ Things the dump raised but didn't settle, or that pull against each other.
 ## Rebirth and memory
 
 - **Clone placement: random family (A) or same family (B)?** A feels more authentic and fits Mary Sue wanting permanence. B is easier for continuity.
+- **Lock in the rebirth rule?** Proposed: a kill before death means near-instant rebirth, no kill means batch rebirth from the cloud. That would reward killing, which helps explain why sick territories churn so fast. Does it apply to Deguchi rad too, where deaths are rarer?
 - **What happens to rad rebirth after humanity absorbs the laser storm?** If the red cloud *is* the rebirth system, absorbing it could make death permanent for rad in Arc 2. That would be huge, and it might be part of why Keegan calms down.
 - **How do Mary Sue's past clones' memories survive?** Through the red cloud's perspective-sharing ("that's where Mary Sue comes in")?
 
@@ -26,6 +27,13 @@ Things the dump raised but didn't settle, or that pull against each other.
 
 - Pronouns/framing: the dump uses both "they" and "it." Pick one.
 - Do Keegan and Mary Sue ever actually connect, or is the chase the relationship?
+- **Why doesn't Keegan leave?** Every other healthy rad is satisfied after a few blows. Is Keegan's "never satisfied" the same thing as the hyperfocus, or a separate trait?
+- If Keegan won't stop, how does Keegan **bond**? Does the brawl contract's bonding step even apply?
+
+## Brawl contract
+
+- Does nervous-system sharing go both ways? Can a **human** feel the rad's emotions too?
+- What counts as "enough blows"? Is it a set number, or does it depend on the rad?
 
 ## Loading and Winter
 

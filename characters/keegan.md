@@ -6,6 +6,9 @@
 
 - **We only ever see Keegan fighting.** Every other dynamo in the story gets moments of calm and rest. Keegan doesn't. When we see Keegan moving, it's toward a fight.
 - **Hyperfocus.** It isn't a quirk, it's *the reason* Keegan is the fighter they are, start to finish. Normal rad fight whatever's closest and drift off. **Keegan chases.**
+- **Direct.** Most rad are coy about approaching a fight. Only sick rad and Keegan walk straight at you. Keegan has the directness of sick without the sickness.
+- **Keegan does not leave.** Under the [brawl contract](../world/rad-and-sick.md#the-brawl-contract), a healthy rad is satisfied after a few blows and walks away. Keegan isn't, and doesn't.
+- **Season 1: Keegan is on fire.** That's the whole mandate for the first arc.
 - **Refuses to be sick** (also covered in an earlier session). The strongest Deguchi rad are nowhere near Keegan when sober and overtake Keegan when sick. **Keegan is still the most aggressive of them all.**
 - **Not a dickhead.** Keegan isn't an asshole because of power or authority. Keegan just *won't not fight everything.*
 - Writing target: **the lion in the hearts of the other characters, a heartthrob mixed with a legend.** That's what it takes to write a creature that *transcended* sick.
@@ -33,6 +36,7 @@
 
 - Keegan's first meeting with humans goes badly. Humans greet by sending energy toward another creature to be perceived. **Keegan greets with a fist.**
 - **Keegan and Mary Sue:** Keegan chases her through Deguchi with an enormous viewer base and a very active chat. To her it's harassment under threat of assault. She just wants to feed her addiction and get away from all of it.
+  - **Mary knows how Keegan works.** Other strong Deguchi rad hunt her too, and hunt her well, almost sickly. But they're still Deguchi at heart. Another rad throws a punch and they're off in a new fight. **Keegan never gets distracted. Keegan keeps following.**
 
 ## Arc 2
 

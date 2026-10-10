@@ -6,9 +6,13 @@
 - Humans blame the rad for **sick**, which turns a human into a killer who hides the corpse, acts normal, and kills again. Meanwhile the corpse reanimates and starts killing too. It spreads.
 - Humanity rebuilt itself around one principle: **every human must be able to fight to the death.** Rad live to fight. Humans fight to live.
 
+## Arcs vs. seasons
+
+**Season 1 runs for as many seasons as it takes to finish Arc 1.** It might be one season per arc, or more. Undecided.
+
 ## Arc 1: The Fight
 
-**Keegan is the dynamo, the unstoppable force.**
+**Keegan is the dynamo, the unstoppable force. Keegan is on fire all season.**
 
 - Keegan has already beaten the sick out of Deguchi, which is why Deguchi is starting to let humans in.
 - **Mary Sue** keeps coming into Deguchi to feed her addiction. Keegan hyperfocuses and chases her, with viewers and chat watching.

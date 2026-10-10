@@ -27,6 +27,14 @@
 - **Nose-up bomb release is a real technique (toss / loft bombing).** Pulling up at release flings the bombs forward along an arc. Keegan's move is legit.
 - **Flying nose-off-direction-of-travel** is real but brief: post-stall / thrust-vectoring maneuvers like Pugachev's Cobra, X-31, Su-57. Sustaining it is exactly what Keegan is demanding the engineers make possible.
 
+## McConnell sitcom episode
+
+An episode of what looks like *Modern Family* or *High School Musical* on the McConnell outskirts: the family dinner, the school hallway, the laugh-track rhythm. **Every episode has a murder.** Some characters fight to the death. Some just wait for the right moment and kill by ambush. Then cut to the center: the vortex-of-vortexes sky, red lasers striking down, *die, kill, die, reborn.*
+
+## The other hunters peel off
+
+Mary Sue running through Deguchi with a strong rad on her tail, hunting her well. Another rad cuts in with a punch, and her pursuer is gone, happily brawling. She slows down and exhales. **Then she hears Keegan.**
+
 ## The corpse out the window
 
 At night, a corpse **springs to life, jumps out the window, and vanishes into the dark.** Next episode, we see that character walking around as if nothing happened.
