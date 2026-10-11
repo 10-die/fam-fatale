@@ -27,6 +27,12 @@ From the dump: *"absorbed by humans to create loading, to create the process tha
 - **Vehicles are magnets that can flip their polarity** and ride the electron layer.
 - This is part of why humans build so fast in the Arc 2 era.
 
+## Martian metal and the ram-plane
+
+- **Martian metal** comes from the [Martian colony](humans.md#the-martian-colony).
+- **Jars's plane** is built partly from it. Its nose is designed as an impact **focal point**: **the plane takes almost no damage, and all of it goes into the target.** It can bounce off a building while the building fails as if the plane went through it.
+- It flies by riding the electron layer's magnetic currents, **redirecting momentum instead of braking.**
+
 ## Aircraft (Keegan's spec)
 
 From the dragon / fighter-jet scene ([../story/scene-seeds.md](../story/scene-seeds.md#keegan-flies-a-fighter-jet)), Keegan's request to engineers:

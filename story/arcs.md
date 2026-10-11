@@ -31,6 +31,7 @@
 - **Something goes wrong.** TBD.
 - Keegan's arc moves from *champion of beating the shit out of everything* to ***I'll punch everything at least once.***
 - Loading arrives with **Keegan holding his off switch.**
+- **Jars**, a fighter pilot from the **Martian colony of humans**, comes to Earth. He rides the new magnetic currents and fights with his plane's nose ([jars.md](../characters/jars.md)).
 - Thread to develop: **Mary Sue asks Loading to recover her previous clones' memories** from deep McConnell territory.
 
 ### Shelved: Mary Sue turns lethal

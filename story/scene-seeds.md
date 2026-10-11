@@ -27,6 +27,18 @@
 - **Nose-up bomb release is a real technique (toss / loft bombing).** Pulling up at release flings the bombs forward along an arc. Keegan's move is legit.
 - **Flying nose-off-direction-of-travel** is real but brief: post-stall / thrust-vectoring maneuvers like Pugachev's Cobra, X-31, Su-57. Sustaining it is exactly what Keegan is demanding the engineers make possible.
 
+## Jars arrives on Earth
+
+*(Arc 2. Jars has traveled from the Martian colony.)*
+
+1. **Wide helicopter shot**, framed big enough for a Godzilla fight. But it's not monsters, it's **humans**: small, but you can make out every one of them.
+2. Jars's Martian-metal jet **slides in, bounces, shoots backward, and slingshots forward.** It never loses momentum, it just changes direction, and fires itself at a target.
+3. **The enemy dodges. Jars swings around on a dime**, curving downward to cancel the dodge, and **drives the enemy into the ground.**
+4. **The enemy bounces back up** and gets hit again.
+5. **Cut to the cockpit cam:** Jars's whole body is working. He's throwing his weight, flipping switches, turning dials, pulling levers, constantly reshaping how the plane behaves.
+6. **The building beat:** the plane rams a building and **bounces off undamaged**, while the building collapses as if the plane went straight through.
+7. Contrast in the same shot: every other flyer is **slowing down, going predictable, hovering.** Jars never does.
+
 ## McConnell sitcom episode
 
 An episode of what looks like *Modern Family* or *High School Musical* on the McConnell outskirts: the family dinner, the school hallway, the laugh-track rhythm. **Every episode has a murder.** Some characters fight to the death. Some just wait for the right moment and kill by ambush. Then cut to the center: the vortex-of-vortexes sky, red lasers striking down, *die, kill, die, reborn.*

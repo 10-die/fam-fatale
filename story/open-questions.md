@@ -40,6 +40,14 @@ Things the dump raised but didn't settle, or that pull against each other.
 - **How are they related?** Is Loading a product of Winter, the process that leads to Winter, or both? Is Loading the name of the tech *and* of the character?
 - Who made Loading, and why did he give *Keegan* his off switch?
 
+## Jars
+
+- **Name:** Jars, Jarvis, or Jaws? The transcription used all three.
+- **Why does he come to Earth?** What brings the Martian colony into Arc 2?
+- **Who is he fighting** in the arrival scene? Who are the flying enemies?
+- **Mars and the rad:** does Mars have rad, sick, a laser storm, or cloning cores? Does it have its own electron layer, or did Jars learn the magnetic currents on Earth?
+- **What makes Martian metal special?** Is it why the nose takes no damage, or is that the plane's design?
+
 ## Terminology
 
 - Deguchi top tier: **kings** or **killers**?

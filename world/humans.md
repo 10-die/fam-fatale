@@ -61,6 +61,12 @@ Humanity blames the rad for sick. In response it banded together and said: **fuc
   - Maybe a corpse that no one has touched disappears after a certain time, or at night.
 - See the scene seeds in [../story/scene-seeds.md](../story/scene-seeds.md): the corpse jumping out the window, and the second sick.
 
+## The Martian colony
+
+- **Humans have a colony on Mars.**
+- It produces **Martian metal**, which goes into at least one Arc 2 aircraft (see [Jars](../characters/jars.md)).
+- Its pilots show up on Earth in **Arc 2**.
+
 ## Rebuilding
 
 - **Humans build very fast** (especially after the [technology](technology.md) leap).

@@ -17,6 +17,8 @@ Worldbuilding and story bible.
 | Mary Sue | [characters/mary-sue.md](characters/mary-sue.md) |
 | Loading | [characters/loading.md](characters/loading.md) |
 | Audrey McConnell | [characters/audrey-mcconnell.md](characters/audrey-mcconnell.md) |
+| Jars (Martian pilot) | [characters/jars.md](characters/jars.md) |
+| Design principles | [story/design-principles.md](story/design-principles.md) |
 | Arc 1 / Arc 2 | [story/arcs.md](story/arcs.md) |
 | POV relay, no protagonist | [story/narrative-structure.md](story/narrative-structure.md) |
 | Scene seeds | [story/scene-seeds.md](story/scene-seeds.md) |
