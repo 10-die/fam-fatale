@@ -13,21 +13,35 @@ The job of anyone (human or AI) working in this repo is **extraction, not invent
 
 ## Folder structure
 
-/raw — verbatim source material, dated. NEVER edited, cleaned, or corrected.
+/raw — verbatim source material, dated. NEVER edited, cleaned, or corrected. One file per brainstorm or per session.
 
 /canon/OPEN_QUESTIONS.md — unresolved contradictions and undecided names. Living doc.
 
-/canon
+/canon — pitch, tone and theme, narrative structure
 
-/forces
+/forces — the sides: humans, rad, rad territories, the Winter team
 
-/mechanics
+/mechanics — how the world works: Sick, death and rebirth, combat, movement, cloning, humanism, and so on
 
-/characters
+/characters — Story 1 characters
 
-/arcs
+/arcs — arc 1, arc 2, arc 3 (the exodus)
 
-/engine
+/engine — timeline
+
+/scenes — index of every scene seed, plus per-scene files
+
+/story-2 — the Mars-era sequel story (*Pseudocode* / *Bash Command*). Its own world, characters, and scenes.
+
+/archive/sessions/<date>-<topic>/ — the organized notes earlier sessions wrote, kept unchanged for reference. **Not canon.** They mix 10die's ideas with assistant suggestions. Canon cites raw wherever possible.
+
+## Working on this repo across sessions
+
+Every session starts from `main` and ends by getting its work back into `main`. Between 2026-07 and 2026-10, eight sessions each started from an empty `main`, wrote to their own branch, and never saw each other's work. That split was merged on 2026-10-14.
+
+- **New brainstorm:** save it verbatim to `raw/<date>-<topic>.md` first, then mine it into canon with citations, following the mining protocol below.
+- **Read before writing:** check `canon/OPEN_QUESTIONS.md` and the relevant canon files before adding anything, so new material is logged against what already exists.
+- Assistant suggestions are welcome in conversation. If one is written into the repo, it's labeled `(assistant suggestion, unconfirmed)`.
 
 ## Rules
 
