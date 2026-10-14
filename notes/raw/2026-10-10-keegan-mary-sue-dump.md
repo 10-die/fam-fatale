@@ -2,7 +2,7 @@
 
 > Verbatim voice-to-text brainstorm. Kept unedited on purpose so nothing gets lost.
 > The organized version lives in `/world`, `/characters`, and `/story`.
-> Transcription quirks: "rat" = **rad**; "King and Loading" most likely = **Keegan and Loading**.
+> Transcription quirks: "rat" = **rad**. ("King" is **not** a typo for Keegan. King is humanity's leader in the existing canon. An earlier version of this note got that wrong.)
 
 ---
 

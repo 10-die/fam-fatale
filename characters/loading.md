@@ -10,7 +10,7 @@
 
 ## Kill switch
 
-- Early on, **Loading gives Keegan a remote with a button that shuts Loading down.** Pressing it makes Loading run an internal process that **reactivates his limitations.**
+- Early on, **Loading gives King a remote with a button that shuts Loading down.** Pressing it makes Loading run an internal process that **reactivates his limitations.**
 
 ## Weapons
 
@@ -30,5 +30,5 @@
 
 ## Relationships
 
-- **Keegan:** holds Loading's off switch.
+- **King:** holds Loading's off switch. (King is humanity's leader in the canon on branch `claude/new-session-7cwcjg`.)
 - **Mary Sue:** might ask him to recover her previous clones' memories.

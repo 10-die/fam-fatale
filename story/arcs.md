@@ -30,9 +30,12 @@
 - **Mary Sue tries to go sober** with help from the whole team.
 - **Something goes wrong.** TBD.
 - Keegan's arc moves from *champion of beating the shit out of everything* to ***I'll punch everything at least once.***
-- Loading arrives with **Keegan holding his off switch.**
-- **Jars**, a fighter pilot from the **Martian colony of humans**, comes to Earth. He rides the new magnetic currents and fights with his plane's nose ([jars.md](../characters/jars.md)).
+- Loading arrives and gives **King** a remote that shuts him down.
 - Thread to develop: **Mary Sue asks Loading to recover her previous clones' memories** from deep McConnell territory.
+
+## After Arc 2
+
+On branch `claude/mars-colonization-story-0q3r1d`: Sick tries to blow up the planet, humanity wins together, and **Arc 3 is the exodus to Mars.** After that comes **Story 2**, a separate Mars-era story set centuries later ([../story-2-mars/](../story-2-mars/README.md)). Jars belongs there.
 
 ### Shelved: Mary Sue turns lethal
 

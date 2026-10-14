@@ -17,13 +17,15 @@ Worldbuilding and story bible.
 | Mary Sue | [characters/mary-sue.md](characters/mary-sue.md) |
 | Loading | [characters/loading.md](characters/loading.md) |
 | Audrey McConnell | [characters/audrey-mcconnell.md](characters/audrey-mcconnell.md) |
-| Jars (Martian pilot) | [characters/jars.md](characters/jars.md) |
 | Design principles | [story/design-principles.md](story/design-principles.md) |
 | Arc 1 / Arc 2 | [story/arcs.md](story/arcs.md) |
 | POV relay, no protagonist | [story/narrative-structure.md](story/narrative-structure.md) |
 | Scene seeds | [story/scene-seeds.md](story/scene-seeds.md) |
 | Open questions | [story/open-questions.md](story/open-questions.md) |
 | Raw brainstorm dumps (verbatim) | [notes/raw/](notes/raw/) |
+| **Story 2: Mars era** (strange metal, the stick, Jars) | [story-2-mars/](story-2-mars/README.md) |
+
+> **Heads up:** more story canon lives on seven other branches that this one never merged. See [story/open-questions.md](story/open-questions.md#canon-is-split-across-branches).
 
 ## Convention
 

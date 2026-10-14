@@ -41,7 +41,7 @@
 ## Arc 2
 
 - **Keegan calms down** because humanity absorbed the laser storm and the global radioactive damage field is gone.
-- **Keegan and Loading:** early on, Loading hands Keegan a **remote with a button that shuts Loading down.** Pressing it makes Loading run an internal process that **reactivates his limitations.** (The dump transcribed "Keegan" as "King" here.)
+- ~~Keegan and Loading: the off-switch remote.~~ **Correction (2026-10-14):** the dump says **King**, and that was right. King is humanity's leader in the existing canon (branch `claude/new-session-7cwcjg`, `characters/king.md`). It wasn't a transcription error for Keegan. See [loading.md](loading.md#kill-switch).
 
 ## Signature scene
 
