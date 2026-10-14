@@ -30,5 +30,5 @@ See OPEN_QUESTIONS.md — harness doc flags Karen's origin as cut off mid-senten
 
 ## October sessions
 - Karen doesn't appear in any of the 2026-09-27 through 2026-10-14 raw files.
-- Two October passages touch her threads without naming her. They're logged as questions in canon/_oq/characters.md, not as canon: (1) in 2026-10-10, every McConnell looks like Audrey McConnell's sibling (see characters/audrey-mcconnell.md), and Karen "is a McConnell"; (2) in 2026-10-07, 10die calls rad-human integration through fight dancing "the beating heart of the story," the same phrase used in July for Karen and Mary Sue.
+- Two October passages touch her threads without naming her. They're logged as questions in canon/OPEN_QUESTIONS.md, not as canon: (1) in 2026-10-10, every McConnell looks like Audrey McConnell's sibling (see characters/audrey-mcconnell.md), and Karen "is a McConnell"; (2) in 2026-10-07, 10die calls rad-human integration through fight dancing "the beating heart of the story," the same phrase used in July for Karen and Mary Sue.
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("Audrey McConnell"); raw/2026-10-07-story-world-building-notes.md, msg 3

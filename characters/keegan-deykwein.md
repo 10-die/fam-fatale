@@ -2,9 +2,9 @@
 
 See OPEN_QUESTIONS.md — naming history is listed there as a resolved-by-current-doc case: "deyKwein was originally named Keegan D[...]", and the harness doc's known threads confirm "Treat Keegan as current unless told otherwise." This file uses **Keegan** going forward per that instruction.
 
-**Pronouns:** 10die refers to Keegan as "he" in the July sessions and as "they," "it," and occasionally "he" or "her" in the October sessions, sometimes within one paragraph. Not decided. The older entries below use "he" as the July sources did. New entries use Keegan's name and "they" where a pronoun can't be avoided. See canon/_oq/characters.md.
+**Pronouns:** 10die refers to Keegan as "he" in the July sessions and as "they," "it," and occasionally "he" or "her" in the October sessions, sometimes within one paragraph. Not decided. The older entries below use "he" as the July sources did. New entries use Keegan's name and "they" where a pronoun can't be avoided. See canon/OPEN_QUESTIONS.md.
 
-**Major live contradictions touching this file** (all logged in canon/_oq/characters.md, none resolved here): whether Keegan ever gets sick; whether "King" is Keegan; whether "Six"/"Sig" in raw/2026-10-07 msg 3 means Keegan.
+**Major live contradictions touching this file** (all logged in canon/OPEN_QUESTIONS.md, none resolved here): whether Keegan ever gets sick; whether "King" is Keegan; whether "Six"/"Sig" in raw/2026-10-07 msg 3 means Keegan.
 
 ## Identity
 - High-level RAD. The haymaker / "banked-money" RAD — confirmed **distinct** from the unnamed gun-back coat guy (magnetic twin guns triggered by heart rate), who was initially misattributed to this character in one draft of the roster before being corrected.
@@ -51,7 +51,7 @@ See OPEN_QUESTIONS.md — naming history is listed there as a resolved-by-curren
   source: raw/2026-07-16-brainstorm-session.md, ¶2, ¶6
 
 ## Naming history: October additions
-- In 2026-10-07, 10die asks for help understanding "the character of dayQueen or dayKwein or dayKwuynbor Keegan from either degucci territory or kwein college the name has varied but they're in reference to the same individual and the same collective." This is 10die's own statement that these spellings all mean Keegan, and that "degucci territory" and "kwein college" are the same collective. It bears directly on the July "day queen" / "Daiquin" entries in canon/OPEN_QUESTIONS.md (see below and canon/_oq/characters.md).
+- In 2026-10-07, 10die asks for help understanding "the character of dayQueen or dayKwein or dayKwuynbor Keegan from either degucci territory or kwein college the name has varied but they're in reference to the same individual and the same collective." This is 10die's own statement that these spellings all mean Keegan, and that "degucci territory" and "kwein college" are the same collective. It bears directly on the July "day queen" / "Daiquin" entries in canon/OPEN_QUESTIONS.md (see below and canon/OPEN_QUESTIONS.md).
   source: raw/2026-10-07-story-world-building-notes.md, msg 2
 - The July "day queen" / "Daiquin" passages, recorded here for reference since 10die now says the name variants are one individual. (1) Loading, on the RAD who flee him: "except for one day queen because I couldn't kill day queen in the fight." (2) "the whole Mary Sue decree meeting... she was just fucking around the day queen Having that moment." (3) In the room where Winter's terminal is switched on: "And maybe Daiquin? Mhmm. Maybe Daiquin has learned how to be tamed." 10die never says outright that these July lines are about Keegan. The 2026-10-07 statement makes it likely, and the open-questions entry is where it should be settled.
   source: raw/2026-07-16-brainstorm-session.md, ¶1
@@ -117,7 +117,7 @@ See OPEN_QUESTIONS.md — naming history is listed there as a resolved-by-curren
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("I prefer to be a weapon")
 
 ## Sick or sober: every version, in session order
-Not reconciled. Logged in canon/_oq/characters.md.
+Not reconciled. Logged in canon/OPEN_QUESTIONS.md.
 - **July:** Keegan "had to sacrifice by getting SICK when fighting other leaders" to keep Gucci sovereign (see Origin section above).
   source: raw/2026-07-20-brainstorm-session-4.md, ¶18
 - **2026-10-05:** "Keegan doesn't get sick when fighting the other sick leaders of the other sick territories." Instead "Keegan's family has to consume sick. Because they need to be able to keep up." The rest of Gucci territory doesn't consume sick. The strongest Gucci who are sick isolate themselves and don't fight one another, because that sets off chain reactions. They are frustrated, because sober it's much harder to reach "Keegan's level of aggression where the fear is a propellant instead of a deterrent."
@@ -132,7 +132,7 @@ Not reconciled. Logged in canon/_oq/characters.md.
 ## Ruler, or irresponsible ruler
 - "What I wanted Keegan to be originally is an irresponsible ruler. Irresponsible in the sense that they would rather fight than deal with the diplomatic tasks of being being a ruler. Fight the strongest things it can find." Keegan was at the top of the leaderboard, "rank one, dropping down and fighting, beating its way up."
   source: raw/2026-10-07-story-world-building-notes.md, msg 3
-- "King is Keegan because I was thinking Keegan chose to fight the, the McConnell and the other sick territories, kingdoms, technopolis." This conflicts with King as humanity's separate leader in the July canon. See characters/king.md and canon/_oq/characters.md.
+- "King is Keegan because I was thinking Keegan chose to fight the, the McConnell and the other sick territories, kingdoms, technopolis." This conflicts with King as humanity's separate leader in the July canon. See characters/king.md and canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-05-rad-fighting-culture.md, msg 1
 - In 2026-10-10, Mary Sue doesn't want to be involved with "this popular fighting king. Enormous viewer base, very active chat. Chasing her." Later: "Keegan, one of the kings of Deguchi territory. Maybe they don't even use kings, maybe they say one of the killers."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("popular fighting king"; "one of the kings of Deguchi")
@@ -140,7 +140,7 @@ Not reconciled. Logged in canon/_oq/characters.md.
 ## The human Bible
 - When 10die introduces humanism and the human Bible (see mechanics/humanism-and-the-human-bible.md), Keegan is the rad way in: "the conflict with Rad is they don't have Bibles... Maybe Keegan starts with a Bible. That's how the Rad start join the, the, the Gucci start joining Keegan." A new nation forms from parts of two nations on the border, rad and human integrating completely, opposed both to sick rad and to humans who want to eliminate all rad. Rad (the Deguchi) are red, humans "blue, silver," so together they are purple.
   source: raw/2026-10-07-story-world-building-notes.md, msg 1
-- "Maybe this would be the first thing that Six starts to write in their Bible when they start interacting with humans. And the humans say, you can do a Bible, your own Bible, your human Bible." The first thing written is the irresponsible-ruler material above: fighting the most lethal sick rad sober, as a test. "Six" (and "Sig" right after) appear where Keegan seems to be meant. Unconfirmed; see canon/_oq/characters.md.
+- "Maybe this would be the first thing that Six starts to write in their Bible when they start interacting with humans. And the humans say, you can do a Bible, your own Bible, your human Bible." The first thing written is the irresponsible-ruler material above: fighting the most lethal sick rad sober, as a test. "Six" (and "Sig" right after) appear where Keegan seems to be meant. Unconfirmed; see canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-07-story-world-building-notes.md, msg 3
 
 ## Keegan the dynamo (Arc 1) and calming down (Arc 2)

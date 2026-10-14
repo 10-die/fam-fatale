@@ -12,7 +12,7 @@
   source: raw/2026-07-16-brainstorm-session.md, ¶2
 
 ## Another sibling: Sick (2026-10-05)
-- In 2026-10-05, 10die says the original idea was that "Sick and Keegan were siblings," with the sibling so deeply infected that "he basically is sick." The July note behind the open question above says the same thing about a *twin* sibling ("the original idea was to have Keegan's twin sibling be sick"). Kyle is not named in either passage. Whether Kyle is that sibling, or Sick is a separate sibling, is still open. See characters/sick.md and canon/_oq/characters.md.
+- In 2026-10-05, 10die says the original idea was that "Sick and Keegan were siblings," with the sibling so deeply infected that "he basically is sick." The July note behind the open question above says the same thing about a *twin* sibling ("the original idea was to have Keegan's twin sibling be sick"). Kyle is not named in either passage. Whether Kyle is that sibling, or Sick is a separate sibling, is still open. See characters/sick.md and canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-05-rad-fighting-culture.md, msg 2; raw/2026-07-16-brainstorm-session.md, ¶2
 - 2026-10-05 also says "Keegan's family has to consume sick. Because they need to be able to keep up" with Keegan. If Kyle is part of that family, this would apply to him, but 10die doesn't mention Kyle there.
   source: raw/2026-10-05-rad-fighting-culture.md, msg 2

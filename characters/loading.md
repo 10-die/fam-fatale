@@ -1,6 +1,6 @@
 # Loading
 
-**Loading has several origin stories across sessions, and they don't agree.** They're collected under "Origin: every version" below and logged in canon/_oq/characters.md. Nothing here picks one.
+**Loading has several origin stories across sessions, and they don't agree.** They're collected under "Origin: every version" below and logged in canon/OPEN_QUESTIONS.md. Nothing here picks one.
 
 ## Identity
 - A robot/machine — "he is a new breed" of robot, distinct from the ancient robots (see engine/timeline.md) that appointed King as humanity's leader.
@@ -67,7 +67,7 @@
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 
 ## Origin: every version, in session order
-Not reconciled. See canon/_oq/characters.md.
+Not reconciled. See canon/OPEN_QUESTIONS.md.
 1. **A new breed of robot, built by the world from Winter's spec (July).** "There are other robots, but he is a new breed. He's a damaged robot." Winter wrote and audited the spec, and the world built him. When Winter is switched back on 400 years later, it says "So Loading is dead," which means Loading existed and was lost well before the story's present. Loading also says "I'll probably be here for thousands of years."
    source: raw/2026-07-16-brainstorm-session.md, ¶1
 2. **Assembled by the team as a magnetic skeleton (July).** The team clicks the bones together. The processor head goes on, and Loading boots straight into kill mode with Keegan striking it. (See the magnetic-skeleton section above.)
@@ -109,7 +109,7 @@ Scene file: scenes/loading-born-and-open-comms.md.
 ## The off-switch remote, and who holds it (2026-10-10)
 - "In the beginning, Loading gives King a remote with a button that when clicked will shut Loading down. Loading will go through an internal process and reactivate its limitations."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("gives King a remote")
-- **Who "King" is here is open.** It could be King, humanity's leader in the July canon (characters/king.md), or Keegan, since raw/2026-10-05 msg 1 says "King is Keegan." The raw file's own header flags this as ambiguous. The 2026-10-10 archive doc at one point changed it to Keegan, then "corrected" it back to King. That correction is the assistant's reasoning, not 10die's, so it doesn't settle anything. Logged in canon/_oq/characters.md.
+- **Who "King" is here is open.** It could be King, humanity's leader in the July canon (characters/king.md), or Keegan, since raw/2026-10-05 msg 1 says "King is Keegan." The raw file's own header flags this as ambiguous. The 2026-10-10 archive doc at one point changed it to Keegan, then "corrected" it back to King. That correction is the assistant's reasoning, not 10die's, so it doesn't settle anything. Logged in canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-10-keegan-mary-sue-dump.md (header); archive/sessions/2026-10-10-keegan-mary-sue-worldbuild/characters/keegan.md
 
 ## Mary Sue's past clones (2026-10-10)

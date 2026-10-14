@@ -23,5 +23,5 @@
   source: raw/2026-10-05-rad-fighting-culture.md, msg 2
 
 ## Note
-- Right after this, 10die says "I've been describing two different characters Sick and Keegan." Some of the movement above may belong to Sick, Keegan's sibling, instead. 10die doesn't say which parts. See characters/sick.md, characters/keegan-deykwein.md and canon/_oq/arcs-and-scenes.md.
+- Right after this, 10die says "I've been describing two different characters Sick and Keegan." Some of the movement above may belong to Sick, Keegan's sibling, instead. 10die doesn't say which parts. See characters/sick.md, characters/keegan-deykwein.md and canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-05-rad-fighting-culture.md, msg 2

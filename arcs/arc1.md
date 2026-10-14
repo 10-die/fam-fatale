@@ -33,7 +33,7 @@
 
 ## Arc 1 in later sessions: "the fight" (2026-10-05 to 2026-10-10)
 
-The July sessions build arc 1 around the tech-recovery mission and Winter's reboot. The October sessions describe arc 1 mostly through Keegan and Mary Sue. 10die never says how the two versions fit together, so both are kept here. See canon/_oq/arcs-and-scenes.md.
+The July sessions build arc 1 around the tech-recovery mission and Winter's reboot. The October sessions describe arc 1 mostly through Keegan and Mary Sue. 10die never says how the two versions fit together, so both are kept here. See canon/OPEN_QUESTIONS.md.
 
 ### Starting state
 - Humans and rad hold their own territories, independent of one another. Humans blame the rad for sick. Sick is "what turns a human into a killer" that hides the corpse, acts normal, and kills again while the corpse reanimates and kills too.
@@ -47,7 +47,7 @@ The July sessions build arc 1 around the tech-recovery mission and Winter's rebo
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("First arc, Keegan, dynamo")
 - "I want Keegan to be on fire in the first season. That's what I want in the first arc of the story."
   source: raw/2026-10-10-mcconnell-sitcoms-and-the-brawl-contract.md ("I want Keegan to be on fire in the first season")
-- In 2026-10-07 the same idea is attached to a name the transcript gives as "Sig": "in the first arc, Sig needs to be a dynamo. Like, Sig eventually attracts other rad." It reads like Keegan, but that is unconfirmed (see canon/_oq/arcs-and-scenes.md). The passage goes on: fighting the strongest, "rank one, dropping down and fighting, beating its way up. And then all of a sudden something changes. Keegan interacts with Mary Sue."
+- In 2026-10-07 the same idea is attached to a name the transcript gives as "Sig": "in the first arc, Sig needs to be a dynamo. Like, Sig eventually attracts other rad." It reads like Keegan, but that is unconfirmed (see canon/OPEN_QUESTIONS.md). The passage goes on: fighting the strongest, "rank one, dropping down and fighting, beating its way up. And then all of a sudden something changes. Keegan interacts with Mary Sue."
   source: raw/2026-10-07-story-world-building-notes.md, msg 3
 - In 2026-09-27 the Keegan/Mary Sue chase is set "in the early times where Keegan is ruthless."
   source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
@@ -96,7 +96,7 @@ The July sessions build arc 1 around the tech-recovery mission and Winter's rebo
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("after the first arc, I want there to be a big change")
 - 2026-10-11 mentions "the magnetic currents that are just in the atmosphere as a result of the end of the first arc." That dump is now Story 2 material (see story-2/). The phrase is noted here only because it names the end of arc 1.
   source: raw/2026-10-11-jars-martian-pilot.md ("as a result of the end of the first arc")
-- These versions differ on how the storm ends, and the 2026-10-10 version also has Loading and Winter *built* after arc 1, which conflicts with the July reboot ("So Loading is dead") during arc 1. Logged in canon/_oq/arcs-and-scenes.md.
+- These versions differ on how the storm ends, and the 2026-10-10 version also has Loading and Winter *built* after arc 1, which conflicts with the July reboot ("So Loading is dead") during arc 1. Logged in canon/OPEN_QUESTIONS.md.
 
 ## Scenes set in or near arc 1
 See scenes/README.md for the full index. Arc 1 entries include the Winter reboot, the extraction operation, Loading's first boot and the rooftop chase, the field, Kyle in the hallway, Mike's approach, and Keegan's chase of Mary Sue.

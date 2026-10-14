@@ -5,7 +5,7 @@ One entry per scene seed from every session. Each entry has a title, the era or 
 **Rules for this folder**
 - Titles are working labels. Where a title is the assistant's invention, the entry says so.
 - Prose drafts written by the assistant are **not** copied here. They are linked in the archive and labeled `assistant draft, unconfirmed`.
-- "Era/arc: not stated" means 10die didn't place it. Don't place it by guess. See engine/timeline.md and canon/_oq/arcs-and-scenes.md.
+- "Era/arc: not stated" means 10die didn't place it. Don't place it by guess. See engine/timeline.md and canon/OPEN_QUESTIONS.md.
 - When drafting, follow CLAUDE.md rule 5 and canon/tone-and-theme.md.
 
 ---

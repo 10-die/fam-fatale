@@ -2,7 +2,7 @@
 
 - **Era/arc:** the same early era as scenes/the-field.md ("Keegan is ruthless"). No arc number.
 - **Source:** raw/2026-09-27-keegan-mary-sue-combat.md, msg 1. 10die: "Okay, I just, I just thought of something insane. Okay, so this is just an idea, all right?"
-- **Name:** the transcript says "Loden" once, then "loading" in the same passage ("maybe loading absorbs that energy to grow," "when Loading is born"). It is very likely "Loading" mistranscribed. This birth contradicts the 400-year-old Loading (July) and the Loading built from the laser storm (2026-10-10). Logged in canon/_oq/arcs-and-scenes.md, not resolved.
+- **Name:** the transcript says "Loden" once, then "loading" in the same passage ("maybe loading absorbs that energy to grow," "when Loading is born"). It is very likely "Loading" mistranscribed. This birth contradicts the 400-year-old Loading (July) and the Loading built from the laser storm (2026-10-10). Logged in canon/OPEN_QUESTIONS.md, not resolved.
 
 ## Beats (10die's)
 1. **Choice and necessity.** "Mary Sue chooses to give birth to Loden. Both out of necessity to, to survive." It comes straight after the car beat (scenes/the-field.md): "maybe loading absorbs that energy to grow."

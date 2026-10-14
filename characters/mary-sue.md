@@ -53,7 +53,7 @@ Name spelling is contested — see OPEN_QUESTIONS.md ("Mary Sue" throughout this
   source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
 - 2026-10-10: Mary Sue doesn't want to be reborn because "she will lose her memories," and the passage goes on: "humans don't get to keep their memories when they're cloned." That reads as Mary Sue being reborn the human way. Rad keep their memories through the cloud (see mechanics/death-and-rebirth.md).
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("she will lose her memories")
-- Compare the July material: the assistant's roster called her a "reincarnated super, red blood addict" (see Identity above), and her hair and eyes glow when Keegan hits her on the rooftop. Human, rad, or something in between is not settled. See canon/_oq/characters.md.
+- Compare the July material: the assistant's roster called her a "reincarnated super, red blood addict" (see Identity above), and her hair and eyes glow when Keegan hits her on the rooftop. Human, rad, or something in between is not settled. See canon/OPEN_QUESTIONS.md.
 
 ## The opening thread (2026-10-04)
 - 10die wants the story to open on Mary Sue: "We'll start off with a character and a specific thread. I think it's just Mary Sue and addiction, to be honest... Mary Sue's addiction to being alone and fighting alone. And trying to produce her own radioactive drugs. Experimenting with that. So that she is completely unreliant on anything else."
@@ -64,7 +64,7 @@ Name spelling is contested — see OPEN_QUESTIONS.md ("Mary Sue" throughout this
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
 
 ## Addiction: how each session frames it
-Listed in session order. These sit side by side and aren't reconciled. See canon/_oq/characters.md.
+Listed in session order. These sit side by side and aren't reconciled. See canon/OPEN_QUESTIONS.md.
 - **July:** trafficking humans for "the strongest refined blood" ("pseudo-heraldic mixing between regular humans and red RAD"). Keegan supplies her with inhalants/vaping to keep her going (see sections above).
   source: raw/2026-07-20-brainstorm-session-4.md, ¶18
 - **2026-09-27:** she amplifies herself with drugs, and she refuses other rads' radiation (next section).
@@ -94,7 +94,7 @@ Scene file: scenes/the-field.md.
 - When Mary Sue gets close enough, she feels Keegan's radiation pushing her away. "They are pushing each other away."
 - Earlier in the chase she would "really like bolt, like get out, park, go over a building, gone," and Keegan had to find her again.
   source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
-- Where the field comes from, and how it squares with the July rooftop scene where Keegan simply hits her, is open. See canon/_oq/characters.md.
+- Where the field comes from, and how it squares with the July rooftop scene where Keegan simply hits her, is open. See canon/OPEN_QUESTIONS.md.
 
 ## Exhaustion and the car (2026-09-27)
 - When Keegan stops and she gets close and feels his radiation without being hit, "Mary's behavior changes. Because Mary is exhausted." She doesn't regenerate stamina while fighting, the way a rad does.
@@ -103,7 +103,7 @@ Scene file: scenes/the-field.md.
   source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
 
 ## Giving birth to Loading (2026-09-27)
-- Flagged by 10die as "just an idea": "So Mary Sue chooses to give birth to Loden. Both out of necessity to, to survive." "Bionics are put inside her body and then it triggers a birth. And now whatever is growing is taking damage." She is fighting, running, "and she's getting pregnant. And she's kicking ass." "She doesn't let Keegan just use her for damage. She tries to survive. And forms a union with Keegan." Keegan is there when Loading is born. "Loden" is very likely "Loading" transcribed: the same passage says "loading" three times. This conflicts with Loading's other origins. See characters/loading.md and canon/_oq/characters.md.
+- Flagged by 10die as "just an idea": "So Mary Sue chooses to give birth to Loden. Both out of necessity to, to survive." "Bionics are put inside her body and then it triggers a birth. And now whatever is growing is taking damage." She is fighting, running, "and she's getting pregnant. And she's kicking ass." "She doesn't let Keegan just use her for damage. She tries to survive. And forms a union with Keegan." Keegan is there when Loading is born. "Loden" is very likely "Loading" transcribed: the same passage says "loading" three times. This conflicts with Loading's other origins. See characters/loading.md and canon/OPEN_QUESTIONS.md.
   source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
 
 ## Living away from the Brawl (2026-10-05)
@@ -111,7 +111,7 @@ Scene file: scenes/the-field.md.
   source: raw/2026-10-05-rad-fighting-culture.md, msg 1
 
 ## Fight dancing (2026-10-07)
-- "There's something about Mary Sue that is interesting. Mary Sue doesn't behave like a fight drunk, fight high rad. Trying to desperately defeat Keegan... Maybe fights like they're dancing or something." Keegan picks up the routine and improvises fight dancing of their own. 10die calls rad-human integration "the beating heart of the story." Compare the July framing of Karen and Mary Sue as the "beating heart" (above). Both are logged in canon/_oq/characters.md.
+- "There's something about Mary Sue that is interesting. Mary Sue doesn't behave like a fight drunk, fight high rad. Trying to desperately defeat Keegan... Maybe fights like they're dancing or something." Keegan picks up the routine and improvises fight dancing of their own. 10die calls rad-human integration "the beating heart of the story." Compare the July framing of Karen and Mary Sue as the "beating heart" (above). Both are logged in canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-07-story-world-building-notes.md, msg 3
 
 ## The Deguchi chase (2026-10-10)

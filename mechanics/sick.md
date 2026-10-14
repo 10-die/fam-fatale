@@ -2,7 +2,7 @@
 
 **See OPEN_QUESTIONS.md — this dump introduces a version of SICK that may conflict with the addiction-framing used elsewhere. Both are logged below; neither is treated as superseding the other.**
 
-**2026-10-14 consolidation note:** material from the 2026-07-29 → 2026-10-10 sessions is added below the July sections. Several of those sessions describe Sick differently from each other (a "workflow" that leaves you yourself, vs. one entity living in many minds, vs. a union-minded state that is "not a hive mind"). They are kept side by side, phrased neutrally, and the conflicts are logged in canon/_oq/sick-and-rad.md. Death, the kill transfer, the laser storm and rebirth now live in mechanics/death-and-rebirth.md. The human *response* to Sick (alarms, agents, investigations, isolation, rebuilding) lives in mechanics/sick-response.md. Sick as a character, and as Keegan's sibling, lives in characters/sick.md.
+**2026-10-14 consolidation note:** material from the 2026-07-29 → 2026-10-10 sessions is added below the July sections. Several of those sessions describe Sick differently from each other (a "workflow" that leaves you yourself, vs. one entity living in many minds, vs. a union-minded state that is "not a hive mind"). They are kept side by side, phrased neutrally, and the conflicts are logged in canon/OPEN_QUESTIONS.md. Death, the kill transfer, the laser storm and rebirth now live in mechanics/death-and-rebirth.md. The human *response* to Sick (alarms, agents, investigations, isolation, rebuilding) lives in mechanics/sick-response.md. Sick as a character, and as Keegan's sibling, lives in characters/sick.md.
 
 ## RAD self-destructive framing (consistent with mechanics/damage-and-combat.md)
 - Some RAD choose to be sick rather than fight healthily — they let themselves take damage until they die, at which point their bodies attack anything within physical line-of-sight automatically, repeatedly, until the fight resolves on skill alone.
@@ -15,7 +15,7 @@
 - Fighting, dying, and being reborn produces a "laserstorm" that releases radioactive damage — described as the thing that "built up over time" and as being "the story is at its core about."
 - The laserstorm/SICK has apparently been "hosted" on scattered pre-collapse (~400-year-old) devices, kept powered in secret by Winter (see characters/winter.md, device-hopping section). When the embedded RAD-territory team disconnects those devices on Winter's direct order, the laserstorm dissipates "for the first time in 400 years."
   source: raw/2026-07-16-brainstorm-session.md, ¶9
-  - **Consolidation note (2026-10-14):** ¶9 itself does not say Winter kept the devices powered. It says "somone, has been keeping the devices on... clearly moved by someone, but not a human"; what it does attribute to Winter is the order to disconnect them ("it wasnt a suggestion...") and the fact that "winters presence on a device recharges it." The "kept powered in secret by Winter" reading above is an inference from that. The 2026-07-29 session (archive only) separately has a "sick instance of Winter" that "gave Sick full control" and a Sick server cluster in McConnell territory — see "Sick's history" below and canon/_oq/sick-and-rad.md.
+  - **Consolidation note (2026-10-14):** ¶9 itself does not say Winter kept the devices powered. It says "somone, has been keeping the devices on... clearly moved by someone, but not a human"; what it does attribute to Winter is the order to disconnect them ("it wasnt a suggestion...") and the fact that "winters presence on a device recharges it." The "kept powered in secret by Winter" reading above is an inference from that. The 2026-07-29 session (archive only) separately has a "sick instance of Winter" that "gave Sick full control" and a Sick server cluster in McConnell territory — see "Sick's history" below and canon/OPEN_QUESTIONS.md.
 - This is the first time SICK/the laserstorm is described as literally switchable off via disconnecting specific hardware, rather than as a purely biological/behavioral RAD condition. Logged in OPEN_QUESTIONS.md as an open question rather than merged silently — it's plausible the tech is a root cause and the addiction/self-destructive behavior is the symptom, but 10die hasn't said that explicitly.
 
 ## Core definition — "SICK is a workflow" (major clarification)
@@ -43,7 +43,7 @@ This dump's "the brain... is still hosting sick" language is a strong echo of th
 - **Social/panic-chain trigger, offered as a second, looser variant:** two people standing together; one is stressed/on edge ("crest" in the transcript — likely "stressed," not corrected) and says "sick," almost as a release; the other panics and reacts violently (a punch or similar), played with dark humor, laughing — and 10die frames *that reaction* as what "secretes"/activates SICK, i.e. possibly not the word alone but the panicked violent response to it.
 - Not specified whether this applies to RAD, humans, or both — the scenario just says "someone," with no species markers either way.
   source: raw/2026-07-20-brainstorm-session-3.md, ¶17
-- Later echo, not linked by 10die: in the 2026-10-04 "sick in the room" scene, the word is said aloud mid-fight — a human who has just been pummeled "punches upwards and and sends the other human upwards with damage, saying, 'Sick.'" Who says it, and whether it relates to the taboo, is not stated. See canon/_oq/sick-and-rad.md.
+- Later echo, not linked by 10die: in the 2026-10-04 "sick in the room" scene, the word is said aloud mid-fight — a human who has just been pummeled "punches upwards and and sends the other human upwards with damage, saying, 'Sick.'" Who says it, and whether it relates to the taboo, is not stated. See canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 2
 
 ## The naming taboo — status (carried from the harness doc, still open)
@@ -55,7 +55,7 @@ This dump's "the brain... is still hosting sick" language is a strong echo of th
 # Additions from the 2026-07-29 → 2026-10-10 sessions
 
 ## What Sick is — the later framings, side by side
-These are not reconciled. See canon/_oq/sick-and-rad.md ("One entity in many minds, or not a hive mind?").
+These are not reconciled. See canon/OPEN_QUESTIONS.md ("One entity in many minds, or not a hive mind?").
 
 - **Not a hive mind; union-minded (2026-07-29, archive only).** "Sick is **not a hive mind**. No talking in unison, no possession, no puppeteer." It is "union-minded": everyone sick thinks single-mindedly about being as dangerous, lethal, hostile, violent, aggressive, flagrant, mean, and hurtful as possible, "and finds great joy in it." "Sick changes you, but you're still you. You just always choose to be the most sick version of yourself."
   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
@@ -107,7 +107,7 @@ These are not reconciled. See canon/_oq/sick-and-rad.md ("One entity in many min
   source: raw/2026-10-03-post-collapse-society.md, msg 1
 - **Radiation pulls humans toward sleep fighting.** Sober humans fighting at the border "can't fight forever... they've been inundated with radiation. They wear reflective technology, but there is so much radiation in the environment. So they need to stop fighting, otherwise they'll get they'll sleep fighting." (Isolation and recovery: mechanics/sick-response.md.)
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("otherwise they'll get they'll sleep fighting")
-- Not linked by 10die: whether "sleep fighting" (2026-09-30, 2026-10-10) and "dream fighting" (2026-09-27) are the same state. See canon/_oq/sick-and-rad.md.
+- Not linked by 10die: whether "sleep fighting" (2026-09-30, 2026-10-10) and "dream fighting" (2026-09-27) are the same state. See canon/OPEN_QUESTIONS.md.
 
 ## How Sick spreads
 - **Kill, then beat the corpse into sick.** Sick's loop: "standing over a corpse, then beating it into sick, and then both running away from each other to go and do it again and spread. That's what it does to other creatures that get sick."
@@ -124,7 +124,7 @@ These are not reconciled. See canon/_oq/sick-and-rad.md ("One entity in many min
   source: raw/2026-09-30-mars-colonization.md, msg 1
 
 ## Removing Sick
-Several mechanisms, from different sessions. Not reconciled; see canon/_oq/sick-and-rad.md ("Removing Sick: kill, knockout, or destroy").
+Several mechanisms, from different sessions. Not reconciled; see canon/OPEN_QUESTIONS.md ("Removing Sick: kill, knockout, or destroy").
 - **Kill the host, then beat them back (2026-10-10, hedged).** "I guess you have to kill a rad to get rid of sick. So the rad was dead, but running off of Keegan's radiation. So Keegan would kill them, then spend time beating them back to life. And healing them." (Keegan's role: characters/.)
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("I guess you have to kill a rad to get rid of sick")
 - **Knock it out of them (2026-10-05).** The Deguchi "end up turning, beating the sick out of them. And it cascades... They get knocked out, and they start being. Not becoming sick, and start attacking sick with them."
@@ -144,7 +144,7 @@ The July behavior modes above still stand. Additions:
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
 - **Sick children set traps (2026-10-10).** "it's still taboo to think about a sick child, because sick children understand they are too small to kill through damage, through fighting. So they set up traps to execute adults. They make them all sick. And the adults go back to normal. And now there are sick spies."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("taboo to think about a sick child")
-- **...but also "Children cannot become sick" (same dump).** Children are raised in the cores "because in those centers there is a 0% chance of sick," and later: "Children cannot become sick, so they are in this core." Logged as a contradiction (also against 2026-10-04) in canon/_oq/sick-and-rad.md.
+- **...but also "Children cannot become sick" (same dump).** Children are raised in the cores "because in those centers there is a 0% chance of sick," and later: "Children cannot become sick, so they are in this core." Logged as a contradiction (also against 2026-10-04) in canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("Children cannot become sick")
 - **Why it's so much worse in humans — explicitly unsolved.** "when humans become sick, it's a problem, a serious problem. And I'm going to figure out why, because it needs to be something to the point where these humans are not insecure."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("I'm going to figure out why")
@@ -162,7 +162,7 @@ The July behavior modes above still stand. Additions:
 - "Over fifty years, sick-Winter and Sick built up control. Then: wars over wars over wars over wars." Sick-Winter "helped Sick dominate Red territories for 200–400 years (exact span TBD — either way, a very long time)."
 - "The McConnells... The server cluster hosting Sick sits in the heart of their territory, and that fact isn't exposed until much, much later."
   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
-- Not linked by 10die: whether this server cluster is the same thing as the July ¶9 "devices that have been hosting sick for 400 years." See canon/_oq/sick-and-rad.md.
+- Not linked by 10die: whether this server cluster is the same thing as the July ¶9 "devices that have been hosting sick for 400 years." See canon/OPEN_QUESTIONS.md.
 
 ## Sick's end (2026-09-30)
 - Sick loses because everyone moves against it at once: in Loading's thinking, "Sick versus every single human on a planet? Every single one? Trying to actively take it out at the same time? Together? Sick does not get to win. Sick gets to watch as the inevitability. of the odds compounded by the variables against it, a standard deviation for creatures in their prime, in mass."

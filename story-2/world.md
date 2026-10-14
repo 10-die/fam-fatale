@@ -7,7 +7,7 @@ The setting of Story 2. Material about the exodus itself (Earth's fallout, the w
   source: raw/2026-09-30-mars-colonization.md, msg 1
 - Living under the surface traces back to the exodus-era worry about whether plants can grow on Mars: "If we can't just somehow dig to the core where for some reason there is fertility in the soil, live in the crust, under the surface. Something. And we will perish having tried."
   source: raw/2026-09-30-mars-colonization.md, msg 1
-- The people are **strange humans**: "humans use strange minerals. They interact with them in strange ways. And even when they speak, it's clear that these are strange humans." What makes their speech strange isn't said (see [../canon/_oq/story-2.md](../canon/_oq/story-2.md)).
+- The people are **strange humans**: "humans use strange minerals. They interact with them in strange ways. And even when they speak, it's clear that these are strange humans." What makes their speech strange isn't said (see [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md)).
   source: raw/2026-09-30-mars-colonization.md, msg 1
 - Who went: the population of Earth that survived the war against Sick, from a planet that is "destroyed and dying": "humans colonized Mars and they all went there."
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("they all went there")
@@ -29,11 +29,11 @@ The setting of Story 2. Material about the exodus itself (Earth's fallout, the w
   - There are **space stations in orbit above Mars**.
   - The smaller craft "look like the, the passenger airlines we have now, but souped up. Like, Like, cool, like Star Wars-ish. Not just tubes, but like, it's got some flair to it. Like the Concorde would be a style that's used."
   - The heavy ships "run like one and then another one and then another one like trains. Like this is public transit by the way."
-  - Whether the revision replaces the slide-landing version or both exist is logged in [../canon/_oq/story-2.md](../canon/_oq/story-2.md).
+  - Whether the revision replaces the slide-landing version or both exist is logged in [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md).
   source: raw/2026-09-30-mars-colonization.md, msg 1
 
 ## The drills
-Two versions, from two sessions. Kept side by side; how they relate is open (see [../canon/_oq/story-2.md](../canon/_oq/story-2.md)).
+Two versions, from two sessions. Kept side by side; how they relate is open (see [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md)).
 
 - **The air drill (2026-09-30).** In the exodus-era episode on Mars: "them on the surface of Mars, literally digging, a digging operation to dig down, down, down, down, down, and then branch out. And the most important thing to manage is the system that is getting the, the whatever is under the ground out."
   - "It's like a huge drill. It's a drill made of air. Powered by thermonuclear magnets. Maybe it's powered by ships, the ships that humans use, thermonuclear reactors. And it's actually two ships spiraling, but not moving. And instead, their thrust, which is like rips of solid wind, rip through the air and dig dirt out of a giant hole like... A kilometer, maybe five."

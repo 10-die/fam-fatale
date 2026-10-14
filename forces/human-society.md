@@ -1,6 +1,6 @@
 # Human society
 
-How humans govern themselves, own things, live, work, learn, and get around. Split out from forces/humans.md (which keeps the July government/voting-app entries, the border, temperament, and the human–rad relationship). King as a person lives in characters/king.md; this file only covers the institutions. Contradictions are logged in canon/_oq/humans.md.
+How humans govern themselves, own things, live, work, learn, and get around. Split out from forces/humans.md (which keeps the July government/voting-app entries, the border, temperament, and the human–rad relationship). King as a person lives in characters/king.md; this file only covers the institutions. Contradictions are logged in canon/OPEN_QUESTIONS.md.
 
 ## A government of everyone
 - "The governments are everyone." 10die: "I would love some, anyone, any political theorist to wonder if it's possible to have a government of everyone. Everyone has a stake, an equal stake."
@@ -32,7 +32,7 @@ King as a character, and the King/Keegan contradiction, belong to characters/kin
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
 - **Earliest version (robots):** King appointed by the ancient custodian robots (see forces/humans.md and engine/timeline.md).
   source: raw/2026-07-16-brainstorm-session.md, ¶1
-- The three origin stories aren't reconciled; see canon/OPEN_QUESTIONS.md (robots vs. president) and canon/_oq/humans.md (the streamer version).
+- The three origin stories aren't reconciled; see canon/OPEN_QUESTIONS.md (robots vs. president) and canon/OPEN_QUESTIONS.md (the streamer version).
 - **Command and accountability (July):** "when king says to do something it is done afterwards that's when people confront King if they didn't like that decision." See characters/king.md.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶14
 - **Departments:** King "created the department to handle all the people that need help."
@@ -45,7 +45,7 @@ King as a character, and the King/Keegan contradiction, belong to characters/kin
 - "Middle class meaning you get to interact with the economy at regular intervals."
 - "The lower socioeconomic class was for the ones that were resting and recovering in the center of human human populations." (The center of human territory is also where clones are raised; see mechanics/cloning-and-family.md.)
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
-- July's aside "King, the only one percenter" sits uneasily with "destroying the elite class." Logged in canon/_oq/humans.md.
+- July's aside "King, the only one percenter" sits uneasily with "destroying the elite class." Logged in canon/OPEN_QUESTIONS.md.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶16
 
 ## Housing
@@ -68,7 +68,7 @@ King as a character, and the King/Keegan contradiction, belong to characters/kin
 - "You essentially take a loan out. And that loan entitles you. You can borrow against the loan to just get a house."
 - The goal is for each person to find the thing that makes them feel "fuck yeah, I'm being cool. I'm a fucking cool human."
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
-- (The 2026-10-04 message gives housing three routes in one breath: everyone got one house through shared pricing, a job anchors you to a house, and the education loan lets you borrow for a house. How they fit isn't stated; see canon/_oq/humans.md.)
+- (The 2026-10-04 message gives housing three routes in one breath: everyone got one house through shared pricing, a job anchors you to a house, and the education loan lets you borrow for a house. How they fit isn't stated; see canon/OPEN_QUESTIONS.md.)
 - By the Mars exodus: "The average human is incredibly educated and inc- incredibly capable of Critical thinking. Efficient. And their society is fair. As fair as possible." Administrations "would need to be clear and concise and simple. Simple break, breakdowns of complicated and complex and intricate things."
   source: raw/2026-09-30-mars-colonization.md, msg 1
 
@@ -81,7 +81,7 @@ King as a character, and the King/Keegan contradiction, belong to characters/kin
 ## The free market and the anarchic collective
 - There are "two ways to get rad blood. Buy it from the free market. Which is what they call the economy of... The anarchical collective, where there is no head but there is order. And order in for is enforced by the residents." (The other way is to make it yourself, which is what Mary Sue does.)
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
-- Which society the anarchic collective belongs to (human, rad, or a mixed edge-zone) isn't stated. Two passages sound similar but 10die never links them: July's "there's, like, no actual government. And people create and enforce policy themselves. And they support, rebut each other's policies" (said next to McConnell and Gucci material), and Deguchi as "Leaders of anarchy. Who create collectives" (forces/rad-territories.md). Logged as a question in canon/_oq/humans.md.
+- Which society the anarchic collective belongs to (human, rad, or a mixed edge-zone) isn't stated. Two passages sound similar but 10die never links them: July's "there's, like, no actual government. And people create and enforce policy themselves. And they support, rebut each other's policies" (said next to McConnell and Gucci material), and Deguchi as "Leaders of anarchy. Who create collectives" (forces/rad-territories.md). Logged as a question in canon/OPEN_QUESTIONS.md.
   source: raw/2026-07-20-brainstorm-session-4.md, ¶18; raw/2026-10-05-rad-fighting-culture.md, msg 1
 
 ## Streaming culture

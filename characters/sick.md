@@ -2,14 +2,14 @@
 
 This file covers Sick as a *character*: a someone, and in one version Keegan's sibling. What sick is and how it works (spread, hosting, corpses, the kill transfer, the naming taboo) lives in mechanics/sick.md, and rebirth in mechanics/death-and-rebirth.md. Neither is restated here.
 
-10die uses "Sick" both for the condition ("they're not sick") and for an actor that does things ("Sick does a jump kick," "Sick gets to watch"). Which is meant isn't always clear. See canon/_oq/characters.md.
+10die uses "Sick" both for the condition ("they're not sick") and for an actor that does things ("Sick does a jump kick," "Sick gets to watch"). Which is meant isn't always clear. See canon/OPEN_QUESTIONS.md.
 
 ## Keegan's sibling
 - July: "I remember the original idea was to have Keegan's twin sibling be sick. But now because sick is a state of intoxication, that the strongest r a d used to just be deadly and to be reborn quickly..." The sentence trails off. In July this is framed as an *earlier* idea being reconsidered.
   source: raw/2026-07-16-brainstorm-session.md, ¶2
 - 2026-10-05, after a long description of a fighter: "Actually realizing is I've been describing two different characters Sick and Keegan and I think that's because in the beginning when I first wrote this the idea was Sick and Keegan were siblings the other sibling was infected by Sick so much so deeply for so long he basically is sick he doesn't know what it is to not be sick and Its old personality has permanently fused with sick. Let me not say permanently, just fused. And in order to unfuse is a very... Would take that rad offline for a while."
   source: raw/2026-10-05-rad-fighting-culture.md, msg 2
-- What isn't settled (all logged in canon/_oq/characters.md):
+- What isn't settled (all logged in canon/OPEN_QUESTIONS.md):
   - Whether the sibling idea is back in play as of 2026-10-05, or 10die is only explaining where the mixed-up description came from. Both sessions call it "the original idea" / "in the beginning."
   - Whether this sibling is the July "twin," whether it's Kyle (characters/kyle.md), or someone else.
   - Which parts of the 2026-10-05 fighting descriptions are Sick and which are Keegan. 10die says two characters were being described but doesn't mark where one stops. The session archive assigns the balcony scene to Sick. That's the assistant's reading. 10die didn't say it.
@@ -40,5 +40,5 @@ This file covers Sick as a *character*: a someone, and in one version Keegan's s
   source: raw/2026-09-30-mars-colonization.md, msg 1
 
 ## Transcription flag
-- 2026-10-05 msg 2 has "So it's like six." right after the Deguchi beat the sick out of their enemies and those enemies start fighting sick alongside them. "Six" may be "sick." The same garble shows up in raw/2026-10-07 msg 3, where "Six" and "Sig" seem to mean Keegan instead. Unconfirmed either way. See canon/_oq/characters.md.
+- 2026-10-05 msg 2 has "So it's like six." right after the Deguchi beat the sick out of their enemies and those enemies start fighting sick alongside them. "Six" may be "sick." The same garble shows up in raw/2026-10-07 msg 3, where "Six" and "Sig" seem to mean Keegan instead. Unconfirmed either way. See canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-05-rad-fighting-culture.md, msg 2

@@ -1,6 +1,6 @@
 # The human response to sick
 
-How humans detect, fight, investigate, and clean up after a sick outbreak inside human territory. What sick *is* and how it behaves belongs to mechanics/sick.md; this file is the human side. Contradictions are logged in canon/_oq/humans.md.
+How humans detect, fight, investigate, and clean up after a sick outbreak inside human territory. What sick *is* and how it behaves belongs to mechanics/sick.md; this file is the human side. Contradictions are logged in canon/OPEN_QUESTIONS.md.
 
 ## The stakes
 - "Sick must be dealt with swiftly when within humanities boarders, that's how you lose a whole state to the RAD." "2 sick can equal a war 3 it's every human." "If that sick is not labotimised humanity must prepare to for a war."
@@ -40,7 +40,7 @@ How humans detect, fight, investigate, and clean up after a sick outbreak inside
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
 - **Sick children (2026-10-10):** "it's still taboo to think about a sick child, because sick children understand they are too small to kill through damage, through fighting. So they set up traps to execute adults. They make them all sick. And the adults go back to normal. And now there are sick spies."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("taboo to think about a sick child")
-- **But also (same 2026-10-10 dump):** "Children cannot become sick, so they are in this core." Logged as a contradiction in canon/_oq/humans.md.
+- **But also (same 2026-10-10 dump):** "Children cannot become sick, so they are in this core." Logged as a contradiction in canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("Children cannot become sick")
 - **The cores** are kept at "a 0% chance of sick" because every adult there is trained to fight to the death ("trying to just get into a beehive"). See mechanics/cloning-and-family.md.
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("0% chance of sick")
@@ -66,7 +66,7 @@ How humans detect, fight, investigate, and clean up after a sick outbreak inside
 ## The Department of Destruction
 - 2026-10-10: "Humans can build really quickly. There's even a department of destruction when a city has been ravaged by sick, or an invasion from a bordering rad territory, sick or not. And the humans are able to reclaim the territory. The whole earth pours its resources to rebuild that territory anew, a different thing, by the people who built it. They live there now. And the people who end up being respawned are respawned somewhere else, cloned."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("department of destruction")
-- 2026-10-03 has the saved brought back to the rebuilt place, followed by "the next wave of respawns"; 2026-10-10 has the builders living there and the respawned sent "somewhere else." Logged in canon/_oq/humans.md.
+- 2026-10-03 has the saved brought back to the rebuilt place, followed by "the next wave of respawns"; 2026-10-10 has the builders living there and the respawned sent "somewhere else." Logged in canon/OPEN_QUESTIONS.md.
 
 ## Scenes from the human side (pointers)
 - **Sick in the Room** (2026-10-04 msg 2): humans run into a room one after another and each one becomes sick. The beats belong to mechanics/sick.md. The scene shows the human reflex to rush in and to "beat them awake with good damage."

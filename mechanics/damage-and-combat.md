@@ -50,7 +50,7 @@ See characters/loading.md for the full breakdown (build-up time, no-spam limitat
   source: raw/2026-10-05-rad-fighting-culture.md, msg 3
 
 ## Lethality and one-shots (tension with the core rule)
-- Several later passages describe one-hit outcomes. They are kept as said; whether they bend the July "nobody dies in one hit" rule is logged in canon/_oq/sick-and-rad.md.
+- Several later passages describe one-hit outcomes. They are kept as said; whether they bend the July "nobody dies in one hit" rule is logged in canon/OPEN_QUESTIONS.md.
   - Sick Keegan: "Keegan is Roadhog from Overwatch when you're a squishy. And the Roadhog, it doesn't kill you with two shots. They kill you with one shot. No matter how much HP you have." (characters/.)
     source: raw/2026-10-07-story-world-building-notes.md, msg 1
   - Keegan's flying haymaker: "One shot, knockout." (A knockout, not a kill.)

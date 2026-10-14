@@ -35,7 +35,7 @@ Mike is described as a main character specifically "in the second arc" (as well 
 ## Tone of arc 2 (2026-10-07)
 - After describing the purple nation's war (below): "that's the second arc where they're like Avengers level, but like if it was succession mixed with suits, mixed with Mad Men. Mixed with Mr. Robot. The first is like A musical. The second, shit gets real. the first one's like a fever dream. The second, is like, the second one is like Dune. The inevitability of these powerful forces being at odds."
   source: raw/2026-10-07-story-world-building-notes.md, msg 1
-- The Dune comparison comes with one change: "Except the leader of Those bald, pale guys. It's not some blob floating around. It's a bald, gray guy who is at their physical peak. They're built like a tank and they're smart." 10die doesn't say which faction or character this leader is. See characters/bald-gray-leader.md and canon/_oq/arcs-and-scenes.md.
+- The Dune comparison comes with one change: "Except the leader of Those bald, pale guys. It's not some blob floating around. It's a bald, gray guy who is at their physical peak. They're built like a tank and they're smart." 10die doesn't say which faction or character this leader is. See characters/bald-gray-leader.md and canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-07-story-world-building-notes.md, msg 1
 - The July reference point (Oblivion and the TET, above) and the October one (Dune, Succession, Suits, Mad Men, Mr. Robot) are both kept. 10die doesn't say one replaces the other.
 
@@ -47,7 +47,7 @@ Mike is described as a main character specifically "in the second arc" (as well 
 - Colours: "red, red, red are the Deguchi. And humans are kind of blue, silver. So they were purple together." A conquered sick territory joins: "maybe Fan 7 is now, it was sick Fan 7." ("Fan 7" is as transcribed.)
 - 10die follows this directly with "And that's the second arc."
   source: raw/2026-10-07-story-world-building-notes.md, msg 1
-- 2026-10-05 has another war where the sick is beaten out of whole territories, which then relapse. 10die doesn't place that one in an arc or connect it to the purple nation. It is logged under engine/timeline.md ("not yet placed") and in canon/_oq/arcs-and-scenes.md.
+- 2026-10-05 has another war where the sick is beaten out of whole territories, which then relapse. 10die doesn't place that one in an arc or connect it to the purple nation. It is logged under engine/timeline.md ("not yet placed") and in canon/OPEN_QUESTIONS.md.
 
 ## The sobriety arc (2026-10-07 and 2026-10-10)
 - **Keegan calms down.** "Second arc, Keegan calms down because the global radioactive damage field is down. Humanity has used it to build loading." See arcs/arc1.md for how arc 1 ends.
@@ -58,7 +58,7 @@ Mike is described as a main character specifically "in the second arc" (as well 
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("what if Mary Sue just started being lethal")
 - **Keegan's arc shape.** "I want Keegan's arc to be, I'm the champion of beating the shit out of everything, to, I'll punch everything at least once."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("I'll punch everything at least once")
-- **Keegan's own dependence (2026-10-07).** "Keegan has been sober for a long time. And it's going to be a journey for Keegan and Mary Sue because Keegan is dependent. Keegan's dependent well into the second arc." The same message says Keegan "does have moments of getting sick." The 2026-10-10 dump says Keegan "refuses to be sick." Logged in canon/_oq/arcs-and-scenes.md. The characters pass owns Keegan's sick status.
+- **Keegan's own dependence (2026-10-07).** "Keegan has been sober for a long time. And it's going to be a journey for Keegan and Mary Sue because Keegan is dependent. Keegan's dependent well into the second arc." The same message says Keegan "does have moments of getting sick." The 2026-10-10 dump says Keegan "refuses to be sick." Logged in canon/OPEN_QUESTIONS.md. The characters pass owns Keegan's sick status.
   source: raw/2026-10-07-story-world-building-notes.md, msg 1
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("Keegan refuses to be sick")
 - **Loading and the remote.** "in the beginning, Loading gives King a remote with a button that when clicked will shut Loading down." 10die says "in the beginning" without naming an arc. It sits here because in the 2026-10-10 dump Loading is built after arc 1. Whether "King" here is humanity's leader or Keegan is a live contradiction. See characters/loading.md, characters/king.md and canon/OPEN_QUESTIONS.md.

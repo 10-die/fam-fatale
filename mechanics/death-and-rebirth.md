@@ -2,7 +2,7 @@
 
 How rad die and come back. Human death and cloning are a different system (see mechanics/cloning-and-family.md and forces/humans.md). Sick's role as the "conduit" for rebirth is summarized in mechanics/sick.md.
 
-The sessions describe rebirth several different ways (a storm after the final wars; a cloud that fires on a schedule set by how often rad die; a kill-based fast lane). They are kept side by side below and the conflicts are logged in canon/_oq/sick-and-rad.md. None is treated as superseding the others.
+The sessions describe rebirth several different ways (a storm after the final wars; a cloud that fires on a schedule set by how often rad die; a kill-based fast lane). They are kept side by side below and the conflicts are logged in canon/OPEN_QUESTIONS.md. None is treated as superseding the others.
 
 ## Death isn't final, and you keep watching
 - For the sick (as with the McConnell), fighting becomes a business: "fights are actual 1v1 challenges, they're not killing each other because they're crazy, they're killing each other because They know that death is not final. And they will be back with a vengeance. And salt. Because they, when they die, their awareness did not end. They were stuck viewing whoever defeated them. And whatever they saw pissed them off."
@@ -20,7 +20,7 @@ The sessions describe rebirth several different ways (a storm after the final wa
 - **Why kill.** Sick rewires a creature "To become almost magnetically attracted towards the potential of a kill. Because when something dies as quickly as possible, there is a moment of transfer of energy. That they kill, that radiation doesn't disappear. It's absorbed by the rad that killed."
 - **The dead stream their killer.** "that that that rad that died is now streaming the rad that killed it and and watching in the chat, able to chat to the rad."
 - **The chat is vile.** "And it's toxicity. It's vile. It's fucking awful. The chat rooms are fucking. Diabolical. The most unforgivable things are said there."
-- **Damage stacks with kills.** "So what happens is now that rad that killed has two times the damage. When they get a third kill, they get three times the damage." (The arithmetic is as spoken; whether the second kill gives ×3 or the third kill does is ambiguous. See canon/_oq/sick-and-rad.md.)
+- **Damage stacks with kills.** "So what happens is now that rad that killed has two times the damage. When they get a third kill, they get three times the damage." (The arithmetic is as spoken; whether the second kill gives ×3 or the third kill does is ambiguous. See canon/OPEN_QUESTIONS.md.)
 - **The transfer chains.** "When they die, whatever killed it gets that rad and whatever else it had. So no one gets not left behind. It's a transfer. This rad dies, then you, you go to the one to the killer until there are only a few rad remaining in the final wars."
   source: raw/2026-10-05-rad-fighting-culture.md, msg 3
 
@@ -63,14 +63,14 @@ The sessions describe rebirth several different ways (a storm after the final wa
   source: raw/2026-10-10-mcconnell-sitcoms-and-the-brawl-contract.md ("The center is where all hell breaks loose")
 - Earlier, unlinked: July has "the strongest r a d used to just be deadly and to be reborn quickly, like, even quick enough to respawn right before a territorial boundary war ends."
   source: raw/2026-07-16-brainstorm-session.md, ¶2
-- Not linked by 10die: whether the fast lane for killers explains the July "reborn quickly" line, and how this rule fits the 2026-10-05 storm that rebirths everyone only after the last rad dies. See canon/_oq/sick-and-rad.md ("Rebirth timing").
+- Not linked by 10die: whether the fast lane for killers explains the July "reborn quickly" line, and how this rule fits the 2026-10-05 storm that rebirths everyone only after the last rad dies. See canon/OPEN_QUESTIONS.md ("Rebirth timing").
 
 ## The laserstorm as what the story is about (July)
 - "the fighting and dying and being reborn in a laserstorm releasing radioactive damage the story is at its core about." In July the laserstorm "dissapiats for the first time in 400 years" when the devices "hosting sick" are disconnected (see mechanics/sick.md).
   source: raw/2026-07-16-brainstorm-session.md, ¶9
 
 ## When rebirth stops
-Different sessions end the laser storm differently. Not reconciled; see canon/_oq/humans.md ("How the laser storm ends") and canon/_oq/sick-and-rad.md ("When the storm ends, does rad death become permanent?").
+Different sessions end the laser storm differently. Not reconciled; see canon/OPEN_QUESTIONS.md ("How the laser storm ends") and canon/OPEN_QUESTIONS.md ("When the storm ends, does rad death become permanent?").
 - **July:** the devices hosting sick are disconnected and the laserstorm dissipates.
   source: raw/2026-07-16-brainstorm-session.md, ¶9
 - **2026-10-10:** after Arc 1, "the laser storm, the mesh over the planet of radiation, is absorbed by humans to create loading, to create the process that creates loading, to create winter." Humans "figured out how to absorb it and use it." In Arc 2 "Keegan calms down because the global radioactive damage field is down." (What the absorbed energy becomes, the electron layer in the atmosphere, is in mechanics/exo-technology.md.)

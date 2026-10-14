@@ -1,6 +1,6 @@
 # Arc 3: the exodus
 
-**About the label.** 10die never says "arc 3" in the raw. In 2026-09-30, Sick's attempt to blow up the planet is "the end of the second arc," and the exodus comes after that: "But then what if, what if I come back and I say, our planet's dying. We need to colonize Mars. And then each episode is spent where, where it's at." The same message talks about "The first story with its two arcs." The name "Arc 3 (Exodus)" comes from the assistant's session notes and the repo layout. Whether the exodus is a third arc of Story 1 or the opening of Story 2 is an open question (canon/_oq/arcs-and-scenes.md).
+**About the label.** 10die never says "arc 3" in the raw. In 2026-09-30, Sick's attempt to blow up the planet is "the end of the second arc," and the exodus comes after that: "But then what if, what if I come back and I say, our planet's dying. We need to colonize Mars. And then each episode is spent where, where it's at." The same message talks about "The first story with its two arcs." The name "Arc 3 (Exodus)" comes from the assistant's session notes and the repo layout. Whether the exodus is a third arc of Story 1 or the opening of Story 2 is an open question (canon/OPEN_QUESTIONS.md).
   source: raw/2026-09-30-mars-colonization.md, msg 1
   source: archive/sessions/2026-09-30-mars-colonization/arc-3-and-bash-command.md
 
@@ -61,7 +61,7 @@
 - "humanity is all watching this operation that they're all invested in."
 - Samples are caught and tested. The ores are "not exactly like it is on Earth," with strange reactions to magnetism: "strange minerals. Or maybe Martian minerals." What the strange metal is and does belongs to the Story 2 pass.
   source: raw/2026-09-30-mars-colonization.md, msg 1
-- 2026-10-14 gives a different drill: "massive drills, state-sized drills," used for "mining and terraforming." Whether these are a later stage or a different version of the air drill is logged in canon/_oq/arcs-and-scenes.md and left to the Story 2 pass.
+- 2026-10-14 gives a different drill: "massive drills, state-sized drills," used for "mining and terraforming." Whether these are a later stage or a different version of the air drill is logged in canon/OPEN_QUESTIONS.md and left to the Story 2 pass.
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("state-sized drills")
 
 ## Handoff to Story 2

@@ -13,5 +13,5 @@
 
 ## Notes
 - The movement (skip, glide, friction spikes, momentum kept until a strike) and the drop strike in the same message belong to the mechanics pass. See mechanics/rad-movement.md.
-- "sick" is lowercase in the raw. The 2026-10-05 archive (part 2) reads this attacker as **Sick**, Keegan's sibling (characters/sick.md), because 10die later says "I've been describing two different characters Sick and Keegan" (raw/2026-10-05-rad-fighting-culture.md, msg 2). 10die never says the balcony attacker is that sibling. Logged in canon/_oq/arcs-and-scenes.md.
+- "sick" is lowercase in the raw. The 2026-10-05 archive (part 2) reads this attacker as **Sick**, Keegan's sibling (characters/sick.md), because 10die later says "I've been describing two different characters Sick and Keegan" (raw/2026-10-05-rad-fighting-culture.md, msg 2). 10die never says the balcony attacker is that sibling. Logged in canon/OPEN_QUESTIONS.md.
 - The camera falling with the loser fits canon/narrative-structure.md ("Staying with the loser"). 10die doesn't make that link.

@@ -17,7 +17,7 @@ See OPEN_QUESTIONS.md — "Michael40kull" appears once, in the closing character
 ## Mike's family
 - July: right after naming Karen and Mary Sue as the "beating heart," 10die gives an example of respawned families: "this guy died and his family died and then you responds [respawns] but now he's with other people and death that that's his family together... and this is Mike by the way I'm referencing." Read plainly: Mike died, his family died, and he came back with other people who are now his family. See mechanics/cloning-and-family.md.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶11
-- 2026-07-29: "Mike lost his family — but not to death." Flagged in that session as a beautiful but undeveloped idea, and the hook is what "lost, but not to death" means. This pulls against the July 20 line, where the family died. Logged in canon/_oq/characters.md.
+- 2026-07-29: "Mike lost his family — but not to death." Flagged in that session as a beautiful but undeveloped idea, and the hook is what "lost, but not to death" means. This pulls against the July 20 line, where the family died. Logged in canon/OPEN_QUESTIONS.md.
   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
 
 ## Meeting Mary Sue, Keegan, and King in McConnell (July, incomplete)

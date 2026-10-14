@@ -1,6 +1,6 @@
 # Loading's first boot and the rooftop chase
 
-- **Era/arc:** not stated. It involves Keegan, Mary Sue, Winter on a phone, and McConnells chasing them. Under the July canon Loading exists 400 years before Winter's reboot, and under 2026-10-10 Loading is built after arc 1, so where this falls is open (canon/_oq/arcs-and-scenes.md).
+- **Era/arc:** not stated. It involves Keegan, Mary Sue, Winter on a phone, and McConnells chasing them. Under the July canon Loading exists 400 years before Winter's reboot, and under 2026-10-10 Loading is built after arc 1, so where this falls is open (canon/OPEN_QUESTIONS.md).
 - **Source:** raw/2026-07-20-brainstorm-session-4.md, ¶18. 10die: "I'm going vivid mode, and I just wanna capture this."
 
 ## Beats

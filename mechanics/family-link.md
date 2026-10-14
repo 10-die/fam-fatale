@@ -25,7 +25,7 @@
 
 # Additions from the 2026-09-27 → 2026-10-10 sessions
 
-Later sessions describe several bond-like effects. 10die doesn't say whether they are the July link, a weaker form of it, or separate things, so they're kept as separate entries and the question is logged in canon/_oq/sick-and-rad.md ("Is the July link the same as the later bonds?").
+Later sessions describe several bond-like effects. 10die doesn't say whether they are the July link, a weaker form of it, or separate things, so they're kept as separate entries and the question is logged in canon/OPEN_QUESTIONS.md ("Is the July link the same as the later bonds?").
 
 ## The radiation duo (2026-09-27)
 - Taking another rad's radiation "starts literally turning you into a version of them if they were you. If they had your backstory. So a hybrid version is born. Something that doesn't exist anywhere else. But in that moment is a duo that, that voluntarily or not are paired with one another. One takes damage, the other one feels it."

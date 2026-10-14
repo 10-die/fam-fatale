@@ -21,7 +21,7 @@ A **separate story**, set **centuries after** fam-fatale, on Mars. All new chara
   source: raw/2026-09-30-mars-colonization.md, msg 1
 - **Story 2 starts centuries after that**, with Mars colonized.
   source: raw/2026-09-30-mars-colonization.md, msg 1
-- Labeling note: "Arc 3" is the name the archive notes and the arcs file use for the exodus. In the raw, 10die says "The first story with its two arcs" and calls the colonization "the end of the first story"; 10die never says "arc 3" outright. Logged in [../canon/_oq/story-2.md](../canon/_oq/story-2.md).
+- Labeling note: "Arc 3" is the name the archive notes and the arcs file use for the exodus. In the raw, 10die says "The first story with its two arcs" and calls the colonization "the end of the first story"; 10die never says "arc 3" outright. Logged in [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md).
   source: raw/2026-09-30-mars-colonization.md, msg 1; archive/sessions/2026-09-30-mars-colonization/arc-3-and-bash-command.md (uses "Arc 3 (Exodus)")
 - **Jars was moved here.** On 2026-10-11 10die placed Jars in "the second arc" (of fam-fatale). On 2026-10-14 10die corrected that: "That was part of another story... where humans colonized Mars and they all went there. And then Jars is alive in that time." See [characters/jars.md](characters/jars.md).
   source: raw/2026-10-11-jars-martian-pilot.md ("I've just been envisioning the second arc"); raw/2026-10-14-mars-strange-metal-and-the-stick.md ("That was part of another story")
@@ -46,5 +46,5 @@ A **separate story**, set **centuries after** fam-fatale, on Mars. All new chara
 - [characters/jars.md](characters/jars.md) — Jars, the Martian fighter pilot.
 - [scenes.md](scenes.md) — scene seeds: the Martian kitchen, Jars comes to Earth.
 - [conflict.md](conflict.md) — the open conflict question: 10die's constraints, then the assistant's five options in a separate labeled section.
-- Open questions for this story: [../canon/_oq/story-2.md](../canon/_oq/story-2.md).
+- Open questions for this story: [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md).
 - The exodus (Story 1, on Earth): [../arcs/arc3.md](../arcs/arc3.md).

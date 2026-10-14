@@ -23,7 +23,7 @@ Dinner on a co-stream while an adult wanders asking what to want. A kid narratin
   source: archive/sessions/2026-10-03-post-collapse-society/post-collapse-society.md
 
 ## Conflicts to note
-- Here children are the stable ones and adults fall sick in their sleep. In 2026-10-04, "when children become sick, they become spies." In 2026-10-10, "Children cannot become sick" inside the cores, yet "it's still taboo to think about a sick child." The mechanics pass owns this. See canon/OPEN_QUESTIONS.md and the _oq fragments.
+- Here children are the stable ones and adults fall sick in their sleep. In 2026-10-04, "when children become sick, they become spies." In 2026-10-10, "Children cannot become sick" inside the cores, yet "it's still taboo to think about a sick child." The mechanics pass owns this. See canon/OPEN_QUESTIONS.md.
 
 ## See also
 forces/humans.md, mechanics/sick-response.md, mechanics/cloning-and-family.md, scenes/README.md ("Return from the border," "Isolation").

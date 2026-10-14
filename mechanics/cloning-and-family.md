@@ -1,6 +1,6 @@
 # Human cloning & "family"
 
-Contradictions for this file are logged in canon/_oq/humans.md. The human response to sick (alarm, investigations, rebuilding) is in mechanics/sick-response.md.
+Contradictions for this file are logged in canon/OPEN_QUESTIONS.md. The human response to sick (alarm, investigations, rebuilding) is in mechanics/sick-response.md.
 
 ## The system
 - The human government runs a cloning program for humans killed or lost in RAD territory: it uses whatever DNA it can recover (sperm, egg, or the body itself) to rebuild the person. Growth is accelerated/"altered" — roughly a week to reach adulthood.
@@ -18,7 +18,7 @@ Contradictions for this file are logged in canon/_oq/humans.md. The human respon
 ## Why it matters
 - "The cloning protocol is the only thing keeping humanity from going extinct at this point. That and humanity's consistent efforts to curb sick."
   source: raw/2026-10-03-post-collapse-society.md, msg 1
-- How heavily it's loaded varies by session. 2026-10-10: "the cloning system is busy. But it's still insanely efficient. So clones are popping out because people die." 2026-07-29 (archive only): "it is laborious to rebuild humans. Human lives are valuable, and you see that in human behavior." Logged in canon/_oq/humans.md.
+- How heavily it's loaded varies by session. 2026-10-10: "the cloning system is busy. But it's still insanely efficient. So clones are popping out because people die." 2026-07-29 (archive only): "it is laborious to rebuild humans. Human lives are valuable, and you see that in human behavior." Logged in canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("the cloning system is busy"); archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
 - Pulling inundated fighters off the border and isolating them is "the best way to preserve humans without having to clone them." See forces/humans.md.
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("preserve humans without having to clone them")
@@ -30,7 +30,7 @@ Contradictions for this file are logged in canon/_oq/humans.md. The human respon
   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
 - **2026-10-10: the incubation chamber.** "When a human dies, their DNA, which has already been collected, is used to create a sperm and an egg, and then there's a giant incubation chamber that slowly focuses the radioactive energy collected by the human technology used to remove the radiation in their territory and use it to charge that machine, which fuses the two together in a way that triggers the natural process of giving of a child being born from that combination of the sperm and the egg." See mechanics/exo-technology.md for the radiation-removal tech.
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("giant incubation chamber")
-- "Whatever DNA they can get" (July) vs. DNA "already... collected" (October) is logged in canon/_oq/humans.md.
+- "Whatever DNA they can get" (July) vs. DNA "already... collected" (October) is logged in canon/OPEN_QUESTIONS.md.
 
 ## Growth rate and the age a clone comes back at
 - **July:** "your altered that you grow at around within a week you're an adult."
@@ -41,7 +41,7 @@ Contradictions for this file are logged in canon/_oq/humans.md. The human respon
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
 - **2026-10-10:** "by the time the family comes back, there's a four-year-old, and it looks just like the human we just saw die."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("there's a four-year-old")
-- These don't line up (adult in a week / adult in days / a four-year-old waiting on the team's return / a childhood long enough for kids from "young ages to like teens" to run a household). Logged in canon/_oq/humans.md.
+- These don't line up (adult in a week / adult in days / a four-year-old waiting on the team's return / a childhood long enough for kids from "young ages to like teens" to run a household). Logged in canon/OPEN_QUESTIONS.md.
 
 ## The hard lock
 - July already states a rule: "it has decided to not create clones... oh, multiple clones that are alive at the same time. Only one of you can be alive at once."
@@ -50,7 +50,7 @@ Contradictions for this file are logged in canon/_oq/humans.md. The human respon
   source: raw/2026-10-03-post-collapse-society.md, msg 1
 - The 2026-10-03 archive lists five candidate hard locks (one living instance, duplicates breed sick, a single continuity key, a scarcity queue, every respawn costs something). **These are assistant suggestions, unconfirmed.** Only "one living instance" matches anything 10die said (the July rule).
   source: archive/sessions/2026-10-03-post-collapse-society/post-collapse-society.md
-- Whether the July one-at-a-time rule *is* the hard lock 10die was asking for in October is logged as a question in canon/_oq/humans.md.
+- Whether the July one-at-a-time rule *is* the hard lock 10die was asking for in October is logged as a question in canon/OPEN_QUESTIONS.md.
 
 ## The cores: where clones are raised
 - 2026-10-04: "The center of human territory is where the, where the clones are raised."

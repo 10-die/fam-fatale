@@ -32,7 +32,7 @@ Distinct from canon/pitch.md (which is an AI-drafted synthesis 10die asked for a
   source: raw/2026-10-10-mcconnell-sitcoms-and-the-brawl-contract.md ("like every TV show you ever seen")
 - "Beautifully strange": children in a crisis society who are still children. "it would be beautifully strange to see children in, in in this element, still being children, still having like, like fun, and they manage the stress by by working together."
   source: raw/2026-10-03-post-collapse-society.md, msg 1
-- This pulls against the July line that "the dread of this world ... should be completely dreary" and "this story is dark." Both are kept. In July the darkness is in the world and in sick, and humour is what keeps it bearable. In October the darkness is never gloomy in feel. Logged in canon/_oq/arcs-and-scenes.md.
+- This pulls against the July line that "the dread of this world ... should be completely dreary" and "this story is dark." Both are kept. In July the darkness is in the world and in sick, and humour is what keeps it bearable. In October the darkness is never gloomy in feel. Logged in canon/OPEN_QUESTIONS.md.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶11
   source: raw/2026-07-20-brainstorm-session-2.md, ¶15
 
@@ -101,7 +101,7 @@ These recur across sessions. The headings "the tool is the weapon," "momentum is
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("Humans are very pleasant")
 
 ## Another "beating heart"
-- July names Karen and Mary Sue as "a beating heart in this story" (above). 2026-10-07 uses the same phrase for something else: Keegan and Mary Sue's fight dancing, "this is the beating heart of the story the idea that rad and human could coexist by assimilating completely." Both are kept. Logged in canon/_oq/arcs-and-scenes.md.
+- July names Karen and Mary Sue as "a beating heart in this story" (above). 2026-10-07 uses the same phrase for something else: Keegan and Mary Sue's fight dancing, "this is the beating heart of the story the idea that rad and human could coexist by assimilating completely." Both are kept. Logged in canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-07-story-world-building-notes.md, msg 3
 
 ## Themes 10die states outright

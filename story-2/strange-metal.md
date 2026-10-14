@@ -43,7 +43,7 @@
   source: raw/2026-09-30-mars-colonization.md, msg 1
 - The working titles *Pseudocode* / *Bash Command* come from this idea.
   source: raw/2026-09-30-mars-colonization.md, msg 1
-- Whether everyone uses bash commands (the 2026-09-30 framing, "humans use...") or only the new-tech side (the 2026-10-14 framing) is open. See [../canon/_oq/story-2.md](../canon/_oq/story-2.md).
+- Whether everyone uses bash commands (the 2026-09-30 framing, "humans use...") or only the new-tech side (the 2026-10-14 framing) is open. See [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md).
 
 ## The stick
 - **Name:** "the wand, the staff, the stick. I prefer just the stick."
@@ -60,7 +60,7 @@
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("that wand in the passive state")
 - **Finesse.** "the speed of it can break your plate. If you do it too fast, you can break your plate. So you need to have a finesse to flick the wrist, because you're interacting with an electromagnetic field. You're steering an electromagnetic field. That's what you're doing in essence." A clean stop is the skill: the plate "stops with the wrist stop. And there's a clang, the plate hit the metal."
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("You're steering an electromagnetic field")
-- What the stick does to **heat** (the steak goes medium rare on command; "180 degrees for an hour" in the oven) isn't explained. Logged in [../canon/_oq/story-2.md](../canon/_oq/story-2.md).
+- What the stick does to **heat** (the steak goes medium rare on command; "180 degrees for an hour" in the oven) isn't explained. Logged in [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md).
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("they say medium rare")
 
 ---

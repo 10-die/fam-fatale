@@ -16,7 +16,7 @@ source: raw/2026-07-20-brainstorm-session-4.md, ¶18
 
 # Earth-era human technology
 
-Everything below is Earth-era (Story 1). Mars-era tech (strange metal, the stick) belongs to the Story 2 files. Loading's and Winter's own bodies and abilities belong to characters/loading.md and characters/winter.md. Contradictions are logged in canon/_oq/humans.md.
+Everything below is Earth-era (Story 1). Mars-era tech (strange metal, the stick) belongs to the Story 2 files. Loading's and Winter's own bodies and abilities belong to characters/loading.md and characters/winter.md. Contradictions are logged in canon/OPEN_QUESTIONS.md.
 
 ## "Our" tech, 400 years on
 - The team finds "our" tech (10die: "the laptop im using") scattered across the world 400 years later, moved by someone, "not a human," and all still charged. Detail in engine/timeline.md and characters/winter.md.
@@ -31,7 +31,7 @@ Everything below is Earth-era (Story 1). Mars-era tech (strange metal, the stick
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 - **2026-10-10:** Winter is "as far as a technological leap from LLMs and agents as the first wheel was to the modern day Formula One wheel. What is the possible peak of a wheel in its application in a specific way? That's what winter is." "Winter becomes a tool that humans use to orient themselves. That's the first thing that winter does. Winter tries to connect and reach out, and it's easy because humanity cooked."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("the first wheel was to the modern day Formula One wheel")
-- When Winter and Loading were made, and from what, differs by session (400-year-old tech in July, a ~2100 agent in the 2026-07-29 archive, made from the absorbed laser storm in 2026-10-10). Logged in canon/_oq/humans.md.
+- When Winter and Loading were made, and from what, differs by session (400-year-old tech in July, a ~2100 agent in the 2026-07-29 archive, made from the absorbed laser storm in 2026-10-10). Logged in canon/OPEN_QUESTIONS.md.
 
 ## Radiation-removal tech
 - Human territory runs "the human technology used to remove the radiation in their territory." The radioactive energy it collects charges the cloning incubation chamber. See mechanics/cloning-and-family.md.
@@ -46,7 +46,7 @@ Everything below is Earth-era (Story 1). Mars-era tech (strange metal, the stick
 - Why humans did it this way: "They weren't able to defeat the rad, but because the rad live off fighting. When they die, they're born again. And the laser storm is around the entire planet, but the humans figured out how to absorb it and use it."
 - The result in Arc 2: "Keegan calms down because the global radioactive damage field is down. Humanity has used it to build loading."
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("the laser storm, the mesh over the planet of radiation")
-- **A different ending for the laser storm (July):** the embedded team, under Winter, "actually disconnected the devices that have been hosting sick for 400 years the lazerstorm dissapiats for the first time in 400 years." Logged in canon/_oq/humans.md. What the laser storm *is* (rad rebirth) belongs to forces/rad.md and mechanics/sick.md.
+- **A different ending for the laser storm (July):** the embedded team, under Winter, "actually disconnected the devices that have been hosting sick for 400 years the lazerstorm dissapiats for the first time in 400 years." Logged in canon/OPEN_QUESTIONS.md. What the laser storm *is* (rad rebirth) belongs to forces/rad.md and mechanics/sick.md.
   source: raw/2026-07-16-brainstorm-session.md, ¶9
 
 ## The electron layer

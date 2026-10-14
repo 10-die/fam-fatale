@@ -18,7 +18,7 @@
 - "The team we follow in arc 2 comes from the third side": humans and Red who choose to make families with one another. See forces/humans.md (*The three sides of the wall*).
 - "Everyone on the team has been sick at some point — except Loading." See characters/loading.md and mechanics/sick.md.
   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
-- Whether the 2026-07-29 "third side" is the same thing as the 2026-10-07 new border nation is a question, not canon; see canon/_oq/humans.md.
+- Whether the 2026-07-29 "third side" is the same thing as the 2026-10-07 new border nation is a question, not canon; see canon/OPEN_QUESTIONS.md.
 
 ## Later sessions
 - Arc 2: Mary Sue tries to go sober "with the help from the whole team." See characters/mary-sue.md.

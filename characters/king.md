@@ -2,7 +2,7 @@
 
 See OPEN_QUESTIONS.md for the unresolved question of King's scope (national office vs. supra-national figurehead).
 
-**Live contradiction: is King Keegan?** In the July canon below, King is humanity's leader and a separate person from Keegan. In 2026-10-05, 10die says "King is Keegan." In 2026-10-07, Keegan was meant to be "an irresponsible ruler." In 2026-10-10, Loading gives "King" an off-switch remote, which could mean either. All versions are under "King and Keegan" at the bottom, and logged in canon/_oq/characters.md. Nothing here picks one.
+**Live contradiction: is King Keegan?** In the July canon below, King is humanity's leader and a separate person from Keegan. In 2026-10-05, 10die says "King is Keegan." In 2026-10-07, Keegan was meant to be "an irresponsible ruler." In 2026-10-10, Loading gives "King" an off-switch remote, which could mean either. All versions are under "King and Keegan" at the bottom, and logged in canon/OPEN_QUESTIONS.md. Nothing here picks one.
 
 ## Identity
 - Leader of humanity, appointed by the ancient robots (the "custodians of humanity" — see engine/timeline.md) as leader of "the group," and humanity in turn chooses that group as their leaders "because it works" / because they organize things.
@@ -53,7 +53,7 @@ See OPEN_QUESTIONS.md for the unresolved question of King's scope (national offi
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
 - The foil, in the same message: a Westeros-style dominator king speaking in the first person, "I am not your king, I am my king. I do what I want." This is the inverse of King's own July line, "I would not be my king — I would be your king" (above). 10die doesn't point out the echo.
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
-- How this sits with the other two origins (appointed by the custodian robots; US President who destroyed and audited the Constitution) is open. The livestream thread is common to the July 20 and 2026-10-04 versions. The bar-exam student and the sitting President are different starting points. Logged in canon/_oq/characters.md.
+- How this sits with the other two origins (appointed by the custodian robots; US President who destroyed and audited the Constitution) is open. The livestream thread is common to the July 20 and 2026-10-04 versions. The bar-exam student and the sitting President are different starting points. Logged in canon/OPEN_QUESTIONS.md.
 
 ## King in McConnell territory (July, incomplete)
 - "Mary Sue and Keegan find themselves in McConnell where they meet up with Mike and King. And the idea [incomplete]." Already in canon/OPEN_QUESTIONS.md.
@@ -64,7 +64,7 @@ See OPEN_QUESTIONS.md for the unresolved question of King's scope (national offi
   source: raw/2026-09-30-mars-colonization.md, msg 1
 
 ## King and Keegan: every version
-Not reconciled. See canon/_oq/characters.md.
+Not reconciled. See canon/OPEN_QUESTIONS.md.
 - **July:** King is humanity's leader, appointed by the custodian robots and/or rising from the US presidency. He is separate from Keegan, who is a RAD from Gucci territory. (See all sections above, and characters/keegan-deykwein.md.)
   source: raw/2026-07-16-brainstorm-session.md, ¶1; raw/2026-07-20-brainstorm-session-2.md, ¶16
 - **2026-10-04:** "the king of humans" is described as the livestreaming lawmaker above, which is a human-side figure. So October still has a human-side "King of humans" alongside the Deguchi "kings."

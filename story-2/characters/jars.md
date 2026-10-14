@@ -6,13 +6,13 @@ Martian fighter pilot. **Story 2 (the Mars era).** Not a fam-fatale (Story 1) ch
 > source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("I've gone deep into that")
 
 ## Name
-- Working name **Jars**. The 2026-10-11 transcription renders it "jars," "Jarvis," and "Jaws" in the same dump. 2026-10-14 uses "Jars." Not confirmed; logged in [../../canon/_oq/story-2.md](../../canon/_oq/story-2.md).
+- Working name **Jars**. The 2026-10-11 transcription renders it "jars," "Jarvis," and "Jaws" in the same dump. 2026-10-14 uses "Jars." Not confirmed; logged in [../../canon/OPEN_QUESTIONS.md](../../canon/OPEN_QUESTIONS.md).
   source: raw/2026-10-11-jars-martian-pilot.md ("jars from the Martian colony", "Jarvis is able to maneuver", "Jaws's plane"); raw/2026-10-14-mars-strange-metal-and-the-stick.md ("Jars is alive in that time")
 
 ## Which story he belongs to
 - 2026-10-11: 10die first placed him in fam-fatale: "envisioning the second arc when jars from the Martian colony of humans travels to Earth."
   source: raw/2026-10-11-jars-martian-pilot.md ("I've just been envisioning the second arc")
-- 2026-10-14 (later, supersedes pending 10die's word): "That was part of another story, and I have to reconsider this because the way that I envisioned Jars getting to Earth is part of a different story where humans colonized Mars and they all went there. And then Jars is alive in that time." Logged in [../../canon/_oq/story-2.md](../../canon/_oq/story-2.md).
+- 2026-10-14 (later, supersedes pending 10die's word): "That was part of another story, and I have to reconsider this because the way that I envisioned Jars getting to Earth is part of a different story where humans colonized Mars and they all went there. And then Jars is alive in that time." Logged in [../../canon/OPEN_QUESTIONS.md](../../canon/OPEN_QUESTIONS.md).
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("That was part of another story")
 
 ## Core
@@ -22,7 +22,7 @@ Martian fighter pilot. **Story 2 (the Mars era).** Not a fam-fatale (Story 1) ch
   source: raw/2026-10-11-jars-martian-pilot.md ("Jaws never stops moving")
 - **Momentum is redirected, never lost.** The jet "slides in and bounces and then shoots backwards and slingshots forwards. Literally not stopping momentum but changing its direction and shooting itself at one of the enemy."
   source: raw/2026-10-11-jars-martian-pilot.md ("Literally not stopping momentum")
-- **He rides magnetic currents.** "Mastering manipulating the magnetic currents that are just in the atmosphere as a result of the end of the first arc." (Written while 10die still placed Jars in fam-fatale. Where those currents come from in the Mars era is open; see [../../canon/_oq/story-2.md](../../canon/_oq/story-2.md).)
+- **He rides magnetic currents.** "Mastering manipulating the magnetic currents that are just in the atmosphere as a result of the end of the first arc." (Written while 10die still placed Jars in fam-fatale. Where those currents come from in the Mars era is open; see [../../canon/OPEN_QUESTIONS.md](../../canon/OPEN_QUESTIONS.md).)
   source: raw/2026-10-11-jars-martian-pilot.md ("magnetic currents that are just in the atmosphere")
 
 ## The plane

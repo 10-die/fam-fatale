@@ -9,7 +9,7 @@ How Story 1 is told: whose eyes we're behind, how the camera moves, and how the 
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("this story has no protagonist or antagonist")
 - July 29 (no raw): "No protagonists yet. Several contenders, and each gets the attention required to learn what they want and why." The main characters "won't be obvious — everyone who watches will have their own main characters, because the world drives the story." Many stories run at once and are all linked: "where they aren't linked yet, they will link in significant and meaningful ways."
   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
-- July names main characters anyway: "At the core i ramble and get lost in characters but the main are, Loading, King of humans, Michael40kull, MerrySue, Keegan, O'Karen." That sits next to the no-main-characters rule. Logged in canon/_oq/arcs-and-scenes.md.
+- July names main characters anyway: "At the core i ramble and get lost in characters but the main are, Loading, King of humans, Michael40kull, MerrySue, Keegan, O'Karen." That sits next to the no-main-characters rule. Logged in canon/OPEN_QUESTIONS.md.
   source: raw/2026-07-16-brainstorm-session.md, ¶9
 
 ## We follow the world, not a team

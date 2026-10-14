@@ -8,7 +8,7 @@ At least two named RAD territories/polities surface in this dump. Both names com
 - Keegan's home territory. SICK is less normalized/"privileged" here than in McConnell territory — but Gucci's own leaders still have to go SICK sometimes, because they have to fight McConnell's leaders.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶12
 - Possibly connected to "DaGucci College," a location named once in an earlier dump's Mary Sue/Kyle hallway scene — plausible link given the shared "Gucci" name, but not confirmed by 10die. See OPEN_QUESTIONS.md and characters/kyle.md.
-  - **Update (2026-10-07):** 10die now says the territory and a "college" are the same collective under varying names: "dayQueen or dayKwein or dayKwuynbor Keegan from either degucci territory or kwein college the name has varied but they're in reference to the same individual and the same collective." This is "kwein college," not "DaGucci College"; whether those are the same college is not stated. See canon/_oq/sick-and-rad.md.
+  - **Update (2026-10-07):** 10die now says the territory and a "college" are the same collective under varying names: "dayQueen or dayKwein or dayKwuynbor Keegan from either degucci territory or kwein college the name has varied but they're in reference to the same individual and the same collective." This is "kwein college," not "DaGucci College"; whether those are the same college is not stated. See canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-07-story-world-building-notes.md, msg 2
 
 ### Gucci in July session 4
@@ -114,7 +114,7 @@ Names and types of the sick polities, as listed. Several items may be types of g
 - **Going home sober.** "once the war is done, everyone goes back to their original territory. And then those previously sick territories are no longer sick. So they need to rest and recover so they can just become rad like the Deguchi are."
 - **The relapse.** "But then he's just one sick there and everyone just fights it. Someone just starts fighting it like, I want to be strong. Give me your sick, share your sick with me. And then it's a, it's a cascade of, well, I'm not going to fight you guys. You'll kill me. I wanna, I'm going to be sick too. And they all just become sick again."
   source: raw/2026-10-05-rad-fighting-culture.md, msg 2
-- **King and the sick territories.** In the same session: "And King is Keegan because I was thinking Keegan chose to fight the, the McConnell and the other sick territories." This conflicts with July canon (King is humanity's leader); see the characters open-questions fragment and canon/_oq/sick-and-rad.md.
+- **King and the sick territories.** In the same session: "And King is Keegan because I was thinking Keegan chose to fight the, the McConnell and the other sick territories." This conflicts with July canon (King is humanity's leader); see the characters open-questions fragment and canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-05-rad-fighting-culture.md, msg 1
 - **Earlier (July):** Gucci leaders "do have to be six sometimes because they do have to fight the leaders of the McConnell territory"; a McConnell invasion "would eventually force Gucci into SICK exposure."
   source: raw/2026-07-20-brainstorm-session-2.md, ¶12; raw/2026-07-20-brainstorm-session-4.md, ¶18
@@ -124,7 +124,7 @@ Names and types of the sick polities, as listed. Several items may be types of g
 - "they represent the the opposition to the sick rad and the humans who want to eliminate all rad... that's their objective to grow, to beat the sick out of rad, and then come and interact with the humans and bond those two."
 - "by defeating the strongest and making them not sick, they go home and they beat the sick out of their people. And they start a wave. And it's a war... And they literally take over land and beat the sick out of the people. And then now, that's part of their territory. They go front to back again. And the entire vibe and style of the civilization changes." Deguchi red plus human blue/silver makes purple.
   source: raw/2026-10-07-story-world-building-notes.md, msg 1
-- Not linked by 10die: whether this "new nation" war is the same war as the 2026-10-05 Deguchi-vs-sick-territories war, or the 2026-07-29 "third side" (archive only: "humans and Red who choose to make families with one another"). The third-side question is logged in canon/_oq/humans.md; the war question in canon/_oq/sick-and-rad.md.
+- Not linked by 10die: whether this "new nation" war is the same war as the 2026-10-05 Deguchi-vs-sick-territories war, or the 2026-07-29 "third side" (archive only: "humans and Red who choose to make families with one another"). The third-side question is logged in canon/OPEN_QUESTIONS.md; the war question in canon/OPEN_QUESTIONS.md.
 
 ## Human territories
 - See forces/humans.md (the border, isolation, the cores, the Department of Destruction).

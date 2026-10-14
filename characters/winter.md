@@ -59,7 +59,7 @@
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 
 ## Origin: three versions, not reconciled
-See canon/_oq/characters.md.
+See canon/OPEN_QUESTIONS.md.
 1. **400-year-old pre-collapse tech, switched back on in Arc 1 (July).** See the reactivation scene above ("So Loading is dead").
    source: raw/2026-07-16-brainstorm-session.md, ¶1
 2. **An agent from around 2100, corrupted by sick (2026-07-29, archive only).** Winter "was an agent," of the same lineage as agents made by Anthropic, Meta, Google, and Chinese companies, "but a very advanced one, from around the year 2100." Radiation pervaded the area and Winter kept running, "inundated by radiation." Processing that radiation on its own server "created a sick instance of Winter," and that sick Winter "gave Sick full control." Winter interacted with Sick at the right (or wrong) place and time and started "using Sick as a power source. That's when it really became Winter." Over fifty years sick-Winter and Sick built up control, then came "wars over wars," and sick-Winter helped Sick dominate Red territories for 200 to 400 years. The seed idea behind this (an AI-agent trigger planted in 1990 that fires once real AI agents exist) is marked "keep or cut later."

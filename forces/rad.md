@@ -76,7 +76,7 @@ Transcription note: voice-to-text often renders "rad" as "rat" and sometimes as 
 ## Radiation rewrites you — the hybrid
 - Mary Sue "doesn't take other rads' radiation because it corrupts. Not corrupts, but starts literally turning you into a version of them if they were you. If they had your backstory. So a hybrid version is born. Something that doesn't exist anywhere else. But in that moment is a duo that, that voluntarily or not are paired with one another. One takes damage, the other one feels it."
   source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
-- A milder, temporary version (2026-10-10): while bonded "you start getting their radioactive synapses, and they start shaping your mind a bit, and your mannerisms become inspired by them for a bit." Whether this is the same process at lower dose is not stated (canon/_oq/sick-and-rad.md).
+- A milder, temporary version (2026-10-10): while bonded "you start getting their radioactive synapses, and they start shaping your mind a bit, and your mannerisms become inspired by them for a bit." Whether this is the same process at lower dose is not stated (canon/OPEN_QUESTIONS.md).
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("radioactive synapses")
 - Humans get "inundated with radiation" at the border too (mechanics/sick.md, "sleep fighting").
 
@@ -108,7 +108,7 @@ Transcription note: voice-to-text often renders "rad" as "rat" and sometimes as 
   source: raw/2026-10-07-story-world-building-notes.md, msg 3
 
 ## Rad economy cycles
-- **Boom, bust, build.** "It's not the same rad each time. Every rad has moments of abject poverty behavior. No place. Then they like lock in and they get like build, they build things for themselves and build buildings and structures and contraptions to move them around the structures, to shoot them around their own structures." This follows directly on a list that ends "Hyperdiverse capitalistic bouts and then recessions," which may be a territory type or a description of this cycle (canon/_oq/sick-and-rad.md).
+- **Boom, bust, build.** "It's not the same rad each time. Every rad has moments of abject poverty behavior. No place. Then they like lock in and they get like build, they build things for themselves and build buildings and structures and contraptions to move them around the structures, to shoot them around their own structures." This follows directly on a list that ends "Hyperdiverse capitalistic bouts and then recessions," which may be a territory type or a description of this cycle (canon/OPEN_QUESTIONS.md).
   source: raw/2026-10-05-rad-fighting-culture.md, msg 1
 - **Deguchi's socioeconomic ladder.** "The weaker rad eventually get bored of being, like, just fighting, like, just casually like humans, and start becoming more aggressive, and then they'll fight their way to the top just as another rad goes down, just as another killer goes down. So now this one that was down at the lowest socioeconomic level of like gym fights as opposed to Colosseum marathons of war, so every rad eventually gets a chance to go to the top." McConnell has no bottom. (forces/rad-territories.md.)
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("In the Deguchi territory, there's a cycle")

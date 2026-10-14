@@ -4,7 +4,7 @@
 What it's for, in 10die's words: "What I was trying to do was capture the idea of the Martian."
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("capture the idea of the Martian")
 
-Transcription note: the dump writes "stake" for **steak**, and the first demand comes through as "I want a stick," which in context ("wherever that stake is, it moves") most likely also means steak. Not certain; see [../canon/_oq/story-2.md](../canon/_oq/story-2.md).
+Transcription note: the dump writes "stake" for **steak**, and the first demand comes through as "I want a stick," which in context ("wherever that stake is, it moves") most likely also means steak. Not certain; see [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md).
 
 Beats, in the order 10die gives them:
 1. "a Martian storming into their home and yelling, and like they have a stick, like a conductor, and they start conducting while demanding, while chanting."
@@ -25,7 +25,7 @@ Beats, in the order 10die gives them:
 Mechanics this scene shows are filed in [strange-metal.md](strange-metal.md#the-stick).
 
 ## Jars comes to Earth
-Mars era: Jars travels from Mars to Earth. Originally imagined as fam-fatale arc 2 (2026-10-11), then moved to this story (2026-10-14). Why he goes, and who he fights there, are open (see [../canon/_oq/story-2.md](../canon/_oq/story-2.md)).
+Mars era: Jars travels from Mars to Earth. Originally imagined as fam-fatale arc 2 (2026-10-11), then moved to this story (2026-10-14). Why he goes, and who he fights there, are open (see [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md)).
   source: raw/2026-10-11-jars-martian-pilot.md ("jars from the Martian colony of humans travels to Earth"); raw/2026-10-14-mars-strange-metal-and-the-stick.md ("the way that I envisioned Jars getting to Earth")
 
 Beats, as 10die describes them:
@@ -38,7 +38,7 @@ Beats, as 10die describes them:
 7. **The building.** "the plane is actually able to crash into a building and then bounce off of it while the building behaves as if the plane actually crashed through it."
   source: raw/2026-10-11-jars-martian-pilot.md ("wide enough to process a Godzilla fight")
 
-The raw mentions "rad pilots" among the other flyers. Whether rad exist in the Mars era is not stated anywhere else; logged in [../canon/_oq/story-2.md](../canon/_oq/story-2.md).
+The raw mentions "rad pilots" among the other flyers. Whether rad exist in the Mars era is not stated anywhere else; logged in [../canon/OPEN_QUESTIONS.md](../canon/OPEN_QUESTIONS.md).
   source: raw/2026-10-11-jars-martian-pilot.md ("other human or rad pilots")
 
 ---

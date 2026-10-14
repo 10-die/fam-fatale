@@ -22,7 +22,7 @@ These come from the assistant's organized notes of a session whose raw is lost. 
 - **Winter is freed early,** maybe in the second episode of the first arc.
 - **Winter dies late in arc 2.** Only then does the team learn it was sick for "hundreds of years."
   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
-- This conflicts with the July 16 reboot, where Winter wakes after 400 years and says "So Loading is dead." Logged in canon/_oq/arcs-and-scenes.md.
+- This conflicts with the July 16 reboot, where Winter wakes after 400 years and says "So Loading is dead." Logged in canon/OPEN_QUESTIONS.md.
 
 ## Story order, as of 2026-10-14
 Pieced together only from what 10die states. Each step cites where it comes from. The joins between steps are where open questions sit.
@@ -56,5 +56,5 @@ Pieced together only from what 10die states. Each step cites where it comes from
   source: raw/2026-10-05-rad-fighting-culture.md, msg 4
 - **Keegan beating the sick out of Deguchi (2026-10-10).** It is past by the time Deguchi "starts letting humans in." Not dated against arc 1. See arcs/arc1.md.
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("Keegan beats sick out of everyone in their territory")
-- **Loading's birth from Mary Sue (2026-09-27, "Loden," most likely "Loading" mistranscribed).** Set in "the early times where Keegan is ruthless." This contradicts both the 400-year-old Loading (July) and the Loading built from the laser storm after arc 1 (2026-10-10). Logged in canon/_oq/arcs-and-scenes.md. See scenes/loading-born-and-open-comms.md.
+- **Loading's birth from Mary Sue (2026-09-27, "Loden," most likely "Loading" mistranscribed).** Set in "the early times where Keegan is ruthless." This contradicts both the 400-year-old Loading (July) and the Loading built from the laser storm after arc 1 (2026-10-10). Logged in canon/OPEN_QUESTIONS.md. See scenes/loading-born-and-open-comms.md.
   source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
