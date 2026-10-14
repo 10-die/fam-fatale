@@ -3,7 +3,7 @@
 See OPEN_QUESTIONS.md — harness doc flags Karen's origin as cut off mid-sentence in an earlier session ("Karen is a RAD from a—"); an earlier dump's closing character list uses "O'Karen" instead of "Karen," with no other context.
 
 ## Origin — major new lead, not fully confirmed
-- This dump strongly suggests Karen is a McConnell — i.e. from McConnell territory, one of (at least) two named RAD territories (see forces/rad-territories.md). 10die arrives at this mid-thought, as a question to himself: "what if that's Karen — wait, Karen is a McConnell." This reads as 10die working it out live, not a settled fact stated flatly — treat as strong-but-not-locked, and read alongside the harness doc's still-open "Karen is a RAD from a—" origin sentence, which this would complete if confirmed.
+- This dump strongly suggests Karen is a McConnell — i.e. from McConnell territory, one of (at least) two named RAD territories (see forces/rad-territories.md). 10die arrives at this mid-thought, as a question to themself: "what if that's Karen — wait, Karen is a McConnell." This reads as 10die working it out live, not a settled fact stated flatly — treat as strong-but-not-locked, and read alongside the harness doc's still-open "Karen is a RAD from a—" origin sentence, which this would complete if confirmed.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶12
 - A physical tell ties to this: "even the way Karen far[t]ed when it was sick you can see some of it when Karen isn't sick" — i.e. some residual physical marker of having been SICK is visible on Karen even when she isn't currently sick. Transcription is rough here ("fart" may not be the intended word) — preserved as written rather than guessed at.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶12
@@ -27,3 +27,8 @@ See OPEN_QUESTIONS.md — harness doc flags Karen's origin as cut off mid-senten
   source: raw/2026-07-16-brainstorm-session.md, ¶6
 - Listed among the "main" characters in the first dump's closing list, under the spelling "O'Karen."
   source: raw/2026-07-16-brainstorm-session.md, ¶9
+
+## October sessions
+- Karen doesn't appear in any of the 2026-09-27 through 2026-10-14 raw files.
+- Two October passages touch her threads without naming her. They're logged as questions in canon/_oq/characters.md, not as canon: (1) in 2026-10-10, every McConnell looks like Audrey McConnell's sibling (see characters/audrey-mcconnell.md), and Karen "is a McConnell"; (2) in 2026-10-07, 10die calls rad-human integration through fight dancing "the beating heart of the story," the same phrase used in July for Karen and Mary Sue.
+  source: raw/2026-10-10-keegan-mary-sue-dump.md ("Audrey McConnell"); raw/2026-10-07-story-world-building-notes.md, msg 3

@@ -1,5 +1,7 @@
 # Loading
 
+**Loading has several origin stories across sessions, and they don't agree.** They're collected under "Origin: every version" below and logged in canon/_oq/characters.md. Nothing here picks one.
+
 ## Identity
 - A robot/machine — "he is a new breed" of robot, distinct from the ancient robots (see engine/timeline.md) that appointed King as humanity's leader.
   source: raw/2026-07-16-brainstorm-session.md, ¶1
@@ -63,3 +65,53 @@
 - Chad-city near-kill interrupted by Winter's own directive (abducting someone from the White House) — see arcs/arc2.md.
 - A scene where Loading "fires away" and Winter goes missing, causing the team's ships (which have "anxiety built into them") to chase after him autonomously.
   source: raw/2026-07-16-brainstorm-session.md, ¶1
+
+## Origin: every version, in session order
+Not reconciled. See canon/_oq/characters.md.
+1. **A new breed of robot, built by the world from Winter's spec (July).** "There are other robots, but he is a new breed. He's a damaged robot." Winter wrote and audited the spec, and the world built him. When Winter is switched back on 400 years later, it says "So Loading is dead," which means Loading existed and was lost well before the story's present. Loading also says "I'll probably be here for thousands of years."
+   source: raw/2026-07-16-brainstorm-session.md, ¶1
+2. **Assembled by the team as a magnetic skeleton (July).** The team clicks the bones together. The processor head goes on, and Loading boots straight into kill mode with Keegan striking it. (See the magnetic-skeleton section above.)
+   source: raw/2026-07-20-brainstorm-session-4.md, ¶18
+3. **Was sick once, and destroyed it (2026-07-29, archive only).** "Everyone on the team has been sick at some point — except Loading." The next line says that "When Loading became sick, it destroyed Sick inside its own body. Completely immune ever since." (The two lines pull against each other. Logged.) Loading "can also beat the sick out of people," which is "a pervasive element of why Loading is the front of the human side of the wall."
+   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
+4. **Born from Mary Sue (2026-09-27).** 10die flags it as "just an idea": "So Mary Sue chooses to give birth to Loden." "Loden" is very likely "Loading" transcribed, since the same passage says "loading" three times ("maybe loading absorbs that energy to grow," "when Loading is born," "Loading gets out of the womb"). Bionics are put inside Mary Sue's body and trigger a birth. The growing thing takes damage, and maybe absorbs the energy of her fights (the car crash) to grow. See "Birth" below.
+   source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
+5. **Built by humanity from the absorbed laser storm, between Arc 1 and Arc 2 (2026-10-10).** "The laser storm, the mesh over the planet of radiation, is absorbed by humans to create loading, to create the process that creates loading, to create winter." "Second arc, Keegan calms down because the global radioactive damage field is down. Humanity has used it to build loading." Where it's headed: "on the path from loading to just being a machine human that is built out of material that charges from damage."
+   source: raw/2026-10-10-keegan-mary-sue-dump.md ("create the process that creates loading"; "material that charges from damage")
+
+## Birth (2026-09-27)
+Scene file: scenes/loading-born-and-open-comms.md.
+- Mary Sue is fighting, running and moving the whole time she's pregnant, "and she's kicking ass." She forms a union with Keegan. "When Loading is born, Keegan is there. And then Loading and Keegan start fighting. Loading gets out of the womb and attacks Keegan immediately and they start fighting and everything erupts into chaos and the entire kingdom starts marching towards the center, towards this radioactive energy. The rad from the Keegans and the humans come together."
+  source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
+- (Compare origin 2, where Loading's first act on booting is also to attack Keegan.)
+
+## Loading and Sick: open comms (2026-09-27)
+- Loading thinks out loud about how many people are dying: "if I die How many humans are left? Sick versus every single human on a planet? Every single one? Trying to actively take it out at the same time? Together? Sick does not get to win. Sick gets to watch as the inevitability... a standard deviation for creatures in their prime, in mass." And: "I see it seeing me. I don't know where it is."
+- 10die immediately asks for this to be handled with restraint: "I want this to be more subtle, way more nuanced. Like don't say it out, don't say it like that. Like have an interesting way to say it."
+- "When loading and sick interact, Loading, they interact as if they've already been talking to each other, like they're on open comms. With one another. And it's scary."
+  source: raw/2026-09-27-keegan-mary-sue-combat.md, msg 1
+- The archive for that session has a drafted monologue ("You counted before I did," "Every time I turn around, I just miss you turning around"). That draft is (assistant suggestion, unconfirmed), not 10die's text.
+  source: archive/sessions/2026-09-27-keegan-mary-sue-combat/keegan-and-mary-sue.md
+
+## Finger gun (2026-10-10)
+- "When he points his finger, as if a human pointing their gun, their finger as a gun, it fires a round of damage energy. So it fires a punch, essentially. And Loading uses this for movement sometimes to displace himself and others." (Compare the July gun-hand mechanic above, which has to be built up over time. 10die doesn't connect the two passages.)
+  source: raw/2026-10-10-keegan-mary-sue-dump.md ("finger as a gun")
+
+## The wings (2026-10-10)
+- "Four wings that magnetically attach an inch from his back that he can control magnetically, With his artificial synapses."
+- "They are stored in space and deploy from space, and you can hear them across the planet. A roar." Inside them it's "like a several nuclear explosions back to back... cascading into one another for a stream, a jet that is like kilometers wide." When something is happening, Loading calls them, and in seconds they reach the altitude where that engine switches off. They go into "jet blast mode" and slowly come down to the ground.
+- Loading wears them and jet-blasts up. Jet blasts are slower but omnidirectional: "forward and stop, then back, then left, right, up a bit."
+- Limited fuel, in both the wings and the jet blasts. "It's almost like an ultimate ability that he uses sometimes. Actually, no, he should try to use them and just think about when he uses them. Maybe there's even elements of him calling them too soon or too late that he researches."
+  source: raw/2026-10-10-keegan-mary-sue-dump.md ("four wings")
+- Possibly related, but not linked by 10die: in the July wedding scene the guests look up and see "a human with wings, and they're shooting jets," just before Loading arrives.
+  source: raw/2026-07-16-brainstorm-session.md, ¶1
+
+## The off-switch remote, and who holds it (2026-10-10)
+- "In the beginning, Loading gives King a remote with a button that when clicked will shut Loading down. Loading will go through an internal process and reactivate its limitations."
+  source: raw/2026-10-10-keegan-mary-sue-dump.md ("gives King a remote")
+- **Who "King" is here is open.** It could be King, humanity's leader in the July canon (characters/king.md), or Keegan, since raw/2026-10-05 msg 1 says "King is Keegan." The raw file's own header flags this as ambiguous. The 2026-10-10 archive doc at one point changed it to Keegan, then "corrected" it back to King. That correction is the assistant's reasoning, not 10die's, so it doesn't settle anything. Logged in canon/_oq/characters.md.
+  source: raw/2026-10-10-keegan-mary-sue-dump.md (header); archive/sessions/2026-10-10-keegan-mary-sue-worldbuild/characters/keegan.md
+
+## Mary Sue's past clones (2026-10-10)
+- Mary Sue might ask Loading "to help her recover the memories of her previous clones," many of whom are deep in McConnell territory. See characters/mary-sue.md.
+  source: raw/2026-10-10-keegan-mary-sue-dump.md ("previous clones")

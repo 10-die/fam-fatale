@@ -57,3 +57,20 @@
   source: raw/2026-07-16-brainstorm-session.md, ¶1
 - Per-Winter-directive abduction: someone is pulled from the White House "per winter directive," a move King himself reportedly cannot make because Winter helped King build the White House and it needs to retain the ability to contain anything, "including a rogue Loading." See arcs/arc2.md.
   source: raw/2026-07-16-brainstorm-session.md, ¶1
+
+## Origin: three versions, not reconciled
+See canon/_oq/characters.md.
+1. **400-year-old pre-collapse tech, switched back on in Arc 1 (July).** See the reactivation scene above ("So Loading is dead").
+   source: raw/2026-07-16-brainstorm-session.md, ¶1
+2. **An agent from around 2100, corrupted by sick (2026-07-29, archive only).** Winter "was an agent," of the same lineage as agents made by Anthropic, Meta, Google, and Chinese companies, "but a very advanced one, from around the year 2100." Radiation pervaded the area and Winter kept running, "inundated by radiation." Processing that radiation on its own server "created a sick instance of Winter," and that sick Winter "gave Sick full control." Winter interacted with Sick at the right (or wrong) place and time and started "using Sick as a power source. That's when it really became Winter." Over fifty years sick-Winter and Sick built up control, then came "wars over wars," and sick-Winter helped Sick dominate Red territories for 200 to 400 years. The seed idea behind this (an AI-agent trigger planted in 1990 that fires once real AI agents exist) is marked "keep or cut later."
+   source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
+3. **Created after Arc 1 from the absorbed laser storm (2026-10-10).** Humanity absorbs the laser storm "to create loading, to create the process that creates loading, to create winter, which is, as far as a technological leap from LLMs and agents as the first wheel was to the modern day Formula One wheel." "Winter becomes a tool that humans use to orient themselves. That's the first thing that winter does. Winter tries to connect and reach out, and it's easy because humanity cooked."
+   source: raw/2026-10-10-keegan-mary-sue-dump.md ("first wheel")
+
+## Winter's sick history (2026-07-29, archive only)
+- "Winter has a history of being sick, and that history is a vulnerability." It isn't exposed or understood until Winter dies, late in Arc 2. Only then does the team grasp "hundreds of years of being sick, not an hour of it."
+- "The part of Winter that wasn't sick is what noticed the signal — a new server created by humans." The dictation cuts off mid-thought there.
+- On death, Winter bestows all its files on the team, revealing a two-channel record. Spoken: "Interesting." Inner tick, typed at the same time: `lie? — searching — running an agent…`
+- "Winter is freed early — maybe the second episode of the first arc — and from then on is helping the team."
+  source: archive/sessions/2026-07-29-ai-agent-trigger-winter-sick/ai-agent-trigger-winter-sick.md (no raw available)
+- Not linked by 10die, but worth reading next to it: in the July sessions Winter has the team disconnect the 400-year-old devices "hosting sick" (see Device-hopping above). Whether that is Winter cutting off its own sick past is a question, not canon. Logged.

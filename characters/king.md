@@ -2,6 +2,8 @@
 
 See OPEN_QUESTIONS.md for the unresolved question of King's scope (national office vs. supra-national figurehead).
 
+**Live contradiction: is King Keegan?** In the July canon below, King is humanity's leader and a separate person from Keegan. In 2026-10-05, 10die says "King is Keegan." In 2026-10-07, Keegan was meant to be "an irresponsible ruler." In 2026-10-10, Loading gives "King" an off-switch remote, which could mean either. All versions are under "King and Keegan" at the bottom, and logged in canon/_oq/characters.md. Nothing here picks one.
+
 ## Identity
 - Leader of humanity, appointed by the ancient robots (the "custodians of humanity" — see engine/timeline.md) as leader of "the group," and humanity in turn chooses that group as their leaders "because it works" / because they organize things.
   source: raw/2026-07-16-brainstorm-session.md, ¶1
@@ -42,3 +44,34 @@ See OPEN_QUESTIONS.md for the unresolved question of King's scope (national offi
 - Illustrative vignette (compressed — the raw passage is heavily garbled by voice-transcription): King is shown casually spying on ordinary people for amusement (watching, laughing) when he spots someone on a bicycle heading home about to be ambushed at their gate/garage — viewers in his livestream chat are confused why the doors are behaving strangely — and King, watching, also sees who else is connected to that person (their circle) and realizes they're "currently in a fight for their life." King then acts: he commands humanity to move on the SICK threat.
 - The human response to that command has no formal chain of command — it's just "the whole of humans in the area... shifting toward" the threat, mass and immediate rather than organized. Even if the human who engages first dies, the SICK RAD "will die there," because if a SICK target isn't neutralized ("lobotomized," in 10die's word — destroying whatever is hosting SICK, see mechanics/sick.md), the stakes escalate fast: "2 sick can equal a war," and at that scale it stops being a matter of designated fighters — "everyone can fight, everyone must fight." SICK has to be dealt with swiftly inside humanity's borders, or it costs a whole state to the RAD.
   source: raw/2026-07-20-brainstorm-session-2.md, ¶14
+
+## Origin, third version: the livestreamer studying for the bar (2026-10-04)
+- A third account of how King came to be, given while describing how the King of humans got humanity hostile toward rad: "The king of humans, who ended up... It wasn't just like one person... Who, oh, it, it essentially started with one person who decided to live stream everything. Live streamed every, everything, the entire struggle of their life." That person streamed studying for the bar: "I'm studying for my bar for, for my lawyer exam I want to understand the law what the law actually means." Chat helped, and together they built a system aimed at "understanding how law can be used to force everyone to help them, to help each other." "Whatever you do is for everyone. What everyone does is for everyone."
+- Housing by consensus: chat spams "I'm renting my house. Can I just own it?" and "through consensus, King is like, okay, let's figure it out. Let's do the let's do the math on that." The result is that everyone owns the one place they live in, and rent stops existing. (The economy and society details belong to forces/humans.md.)
+- Why the King's power is absolute: "Humanity realized that The king should have absolute power because whoever the king is, them being a representative of the people has been so widely adopted because of its actual impact on people's lives." It destroyed the elite class.
+- The darker edge: before sick shows itself, all anyone has is speculation, "And that speculation makes, makes humans hostile towards the rat [rad]. Because that's what the king was able to do."
+  source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
+- The foil, in the same message: a Westeros-style dominator king speaking in the first person, "I am not your king, I am my king. I do what I want." This is the inverse of King's own July line, "I would not be my king — I would be your king" (above). 10die doesn't point out the echo.
+  source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
+- How this sits with the other two origins (appointed by the custodian robots; US President who destroyed and audited the Constitution) is open. The livestream thread is common to the July 20 and 2026-10-04 versions. The bar-exam student and the sitting President are different starting points. Logged in canon/_oq/characters.md.
+
+## King in McConnell territory (July, incomplete)
+- "Mary Sue and Keegan find themselves in McConnell where they meet up with Mike and King. And the idea [incomplete]." Already in canon/OPEN_QUESTIONS.md.
+  source: raw/2026-07-20-brainstorm-session-4.md, ¶18
+
+## King and the exodus (2026-09-30)
+- In the Mars-colonization brainstorm, 10die drops an idea (animals left on Earth evolving into something) because "King wouldn't make sense as a character if they didn't consider animals. Bringing animals over to Mars. Or at least trying." So King is still around, and still caring for everyone, at the end of Story 1.
+  source: raw/2026-09-30-mars-colonization.md, msg 1
+
+## King and Keegan: every version
+Not reconciled. See canon/_oq/characters.md.
+- **July:** King is humanity's leader, appointed by the custodian robots and/or rising from the US presidency. He is separate from Keegan, who is a RAD from Gucci territory. (See all sections above, and characters/keegan-deykwein.md.)
+  source: raw/2026-07-16-brainstorm-session.md, ¶1; raw/2026-07-20-brainstorm-session-2.md, ¶16
+- **2026-10-04:** "the king of humans" is described as the livestreaming lawmaker above, which is a human-side figure. So October still has a human-side "King of humans" alongside the Deguchi "kings."
+  source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
+- **2026-10-05:** "And King is Keegan because I was thinking Keegan chose to fight the, the McConnell and the other sick territories, kingdoms, technopolis."
+  source: raw/2026-10-05-rad-fighting-culture.md, msg 1
+- **2026-10-07:** "What I wanted Keegan to be originally is an irresponsible ruler... they would rather fight than deal with the diplomatic tasks of being being a ruler."
+  source: raw/2026-10-07-story-world-building-notes.md, msg 3
+- **2026-10-10:** Keegan is "this popular fighting king" and "one of the kings of Deguchi territory. Maybe they don't even use kings, maybe they say one of the killers." Separately, "Loading gives King a remote" to shut Loading down, and it's ambiguous which King is meant (see characters/loading.md).
+  source: raw/2026-10-10-keegan-mary-sue-dump.md ("popular fighting king"; "one of the kings of Deguchi"; "gives King a remote")

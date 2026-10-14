@@ -14,3 +14,6 @@ Per the assistant's in-session roster (¶6) — three RAD characters were still 
 ## Shield / nano-mesh log-and-sand guy
 - No description beyond the tag "Shield/nano-mesh log-and-sand guy" in the roster. Unnamed, undescribed beyond that.
   source: raw/2026-07-16-brainstorm-session.md, ¶6
+
+## See also
+- characters/bald-gray-leader.md: an unnamed leader from 2026-10-07 who may or may not be rad. Kept in a separate file for that reason.
