@@ -2,7 +2,7 @@
 
 > Verbatim voice-to-text brainstorm. Kept unedited on purpose so nothing gets lost.
 > The organized version lives in `/world`, `/characters`, and `/story`.
-> Transcription quirks: "rat" = **rad**. ("King" is **not** a typo for Keegan. King is humanity's leader in the existing canon. An earlier version of this note got that wrong.)
+> Transcription quirks: "rat" = **rad**. "King" in the Loading passage is ambiguous. It could be King, humanity's leader in the July canon, or Keegan (raw/2026-10-05-rad-fighting-culture.md msg 1 says "King is Keegan"). See canon/OPEN_QUESTIONS.md.
 
 ---
 
