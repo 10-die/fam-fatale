@@ -100,3 +100,7 @@ The July sessions build arc 1 around the tech-recovery mission and Winter's rebo
 
 ## Scenes set in or near arc 1
 See scenes/README.md for the full index. Arc 1 entries include the Winter reboot, the extraction operation, Loading's first boot and the rooftop chase, the field, Kyle in the hallway, Mike's approach, and Keegan's chase of Mary Sue.
+
+## Arc 1 builds Loading (2026-11-16)
+- "The idea was in the first arc, it would be the building of Loading while establishing the world." This is another version of when Loading enters. It is close to the July 20 magnetic-skeleton assembly, and it differs from the 2026-10-10 version, where Loading is built *after* arc 1 from the absorbed laser storm. Logged in canon/OPEN_QUESTIONS.md.
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md

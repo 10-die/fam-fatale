@@ -620,6 +620,10 @@ Written in the 2026-10-14 consolidation pass for arcs/arc1.md, arcs/arc2.md, arc
   source: raw/2026-07-16-brainstorm-session.md, ¶9
   source: raw/2026-10-10-mcconnell-sitcoms-and-the-brawl-contract.md ("I want Keegan to be on fire in the first season")
 
+- **When Loading enters: a fifth version (2026-11-16).** "The idea was in the first arc, it would be the building of Loading while establishing the world." This puts Loading's construction *during* arc 1. 2026-10-10 has humans build Loading *after* arc 1 from the laser storm. July 16 has Loading already long dead when Winter wakes. Not resolved.
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md
+
+
 ### The exodus (arc 3)
 
 - **Is the exodus "arc 3," the end of Story 1, or the start of Story 2?** 10die calls Sick's explosion "the end of the second arc" and talks about "The first story with its two arcs." The exodus episodes come after: "then what if I come back and I say, our planet's dying." The label "Arc 3 (Exodus)" is the assistant's (2026-09-30 archive) and the repo layout's. 10die never says "arc 3." Also open: does Story 1 end on the explosion, or on the exodus episodes that "set up" Story 2?
@@ -677,6 +681,16 @@ Written in the 2026-10-14 consolidation pass for arcs/arc1.md, arcs/arc2.md, arc
 - **Do Story 2's principles apply to Story 1?** "Using the plane as the weapon. And that's the type of thinking I want in this story, in this show, in whatever it ends up being," and the Godzilla-scale framing both come from the Jars dump, which is now Story 2. The wording ("in whatever it ends up being") reads as general, and Keegan's jet scene shows the same instinct in Story 1. Not confirmed.
   source: raw/2026-10-11-jars-martian-pilot.md ("using the plane as the weapon")
   source: raw/2026-10-10-keegan-mary-sue-dump.md ("I prefer to be a weapon, my own weapon")
+
+- **A third "beating heart" (2026-11-16).** The arc 2 mixed group of humans, rad and Loading "trying to usher in a world where humans and RAD coexist. And that's the beating heart of the story." The other two are Karen and Mary Sue (July 20) and Keegan and Mary Sue's fight dancing (2026-10-07). The 2026-10-07 and 2026-11-16 uses both point at coexistence, so they may be one idea. 10die hasn't said.
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md
+
+- **Is human life about fighting, or about being human? (2026-11-16)** 2026-10-10: "Every human needs to be able to fight to the death." 2026-11-16: humans want "to be human. Movies, build interesting structures, read, write, make music." These can both be true (humans fight to live so they can live like this), but 10die hasn't said so.
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md
+
+- **The Evernote export is not in the repo yet (2026-11-16).** 10die has nearly a decade of notes in an Evernote export, in folders named `EVRYTHING`, `DATABASE - NAMES`, `Fami'liiz`, `Families'lore`, `PICTURES` and `Stress`, plus other notes that never exported. Anything in canon may be older or newer than something in those notes. Once they're added to raw/, mine them and expect contradictions.
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md
+
 
 ### Scenes
 

@@ -113,3 +113,19 @@ These recur across sessions. The headings "the tool is the weapon," "momentum is
   source: raw/2026-10-05-rad-fighting-culture.md, msg 1
 - **Growth.** "I love growth, to be able to follow someone as they grow."
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("I love growth")
+
+## No exposition, no one-note characters (2026-11-16)
+- "I hate exposition so much. It's one of the reasons why I refuse to watch animes because there's always just so much exposition." See canon/narrative-structure.md for how the handoff carries exposition instead.
+- "the characters feel so one note. This is a bad guy, this is a good guy, this is an evil guy, this is a twisted guy."
+- What 10die wants instead: "characters who do something fucked up and then they come home and they take care of someone that's dear to them and they do something heroic for someone they care about, where the heroes and the villains are not just heroes and villains because they choose to be that way, but because their goals don't align."
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md
+
+## Families are the backbone (2026-11-16)
+- "the action and the intensity and the drama comes from the backbone of families."
+- Why families resist integration: "Families of RAD and families of humans refusing to integrate with one another because integration would mean the alteration of the culture and the world that they know in exchange for a new culture with what they see as the opposing society and culture."
+- The two cultures being protected: "One side wants to fight all the time and loves fighting, expresses through fighting, and the other side wants to be human. Movies, build interesting structures, read, write, make music." This is a gentler picture of human life than the 2026-10-10 "Every human needs to be able to fight to the death" society. 10die doesn't say whether both are true at once. See forces/humans.md.
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md
+
+## A third "beating heart" (2026-11-16)
+- The 2026-11-16 message uses the phrase for the arc 2 mixed group (humans, rad and Loading) "trying to usher in a world where humans and RAD coexist. And that's the beating heart of the story." That makes three uses of the phrase. See "Another beating heart" above and canon/OPEN_QUESTIONS.md.
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md

@@ -43,3 +43,5 @@ From July to October 2026 the story was brainstormed across eight separate sessi
 3. The contradictions were logged in `canon/OPEN_QUESTIONS.md`.
 
 The Jars material from claude.ai chats, and any raw for the 2026-07-29 session, were never in the repo. Add them to `raw/` to bring them in.
+
+The biggest missing source is 10die's Evernote export: nearly a decade of notes, including the `Fami'liiz`, `Families'lore` and `DATABASE - NAMES` notebooks. See raw/2026-11-16-a-decade-and-the-evernote-export.md. Add it under `raw/evernote/` to bring it in.

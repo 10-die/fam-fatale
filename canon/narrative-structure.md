@@ -80,3 +80,14 @@ How Story 1 is told: whose eyes we're behind, how the camera moves, and how the 
   source: raw/2026-10-14-mars-strange-metal-and-the-stick.md ("I think I know where I want them to end")
 - 2026-10-04: "I've essentially understood the core elements and how to build the rest. I'm just too lazy to actually do it."
   source: raw/2026-10-04-mary-sue-collective-governance.md, msg 1
+
+## 2026-11-16: the shape restated, after "almost a decade"
+10die restates the structure in one message. It matches the POV relay above and adds a few things.
+- **Follow one group, as real people.** "we'd follow one group of people, each individual, follow their dynamic, and they'd be real characters."
+- **A spectrum of family dynamics.** "some families who are like very very cheery with one another, but they still have moments of clashing. Then you have some groups where it's like they clash all the time, but they have moments of bonding, and a spectrum of that."
+- **The handoff moves the camera somewhere new.** "in that interaction we end up following the other group now, and now we're traveling to a whole different place and doing different things."
+- **That handoff is how the world gets explained.** "we get exposition not through somebody narrating and yapping a long script, but by actually seeing, oh my goodness, these groups of characters are responsible for this and this ... exploring the world through the characters."
+- **The payoff is the multi-group clash.** "you'd have moments where there's a big clash, and it's like, holy moly, I know three of these groups in this five group clash. What's gonna happen? I like some characters on both sides."
+- **Still no main character.** "There's no main character. I don't know who the main character is."
+- **The threads under everything.** "there's an underlining thread of Loading and Winter. And the idea of King and the McConnells and the power."
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md

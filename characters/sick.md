@@ -42,3 +42,7 @@ This file covers Sick as a *character*: a someone, and in one version Keegan's s
 ## Transcription flag
 - 2026-10-05 msg 2 has "So it's like six." right after the Deguchi beat the sick out of their enemies and those enemies start fighting sick alongside them. "Six" may be "sick." The same garble shows up in raw/2026-10-07 msg 3, where "Six" and "Sig" seem to mean Keegan instead. Unconfirmed either way. See canon/OPEN_QUESTIONS.md.
   source: raw/2026-10-05-rad-fighting-culture.md, msg 2
+
+## What Sick wants (2026-11-16)
+- "Sick wants to infect everyone so that we have a global utopia of unending war and evolution." "And evolution" is new. The July line was "unending global utopia of wars."
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md

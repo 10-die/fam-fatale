@@ -87,3 +87,10 @@ Mike is described as a main character specifically "in the second arc" (as well 
 
 ## Scenes set in or near arc 2
 See scenes/README.md. Arc 2 entries include the wedding at the lake, the Chad-city interruption, "Winter's missing," and Loading's wings.
+
+## Arc 2 as 10die first imagined it (2026-11-16)
+- Arc 2 came first: "I started off with Arc 2."
+- The vibe: "the postmodern, like elegant Avengers feeling vibe." This sits beside the July Oblivion/TET reference and the 2026-10-07 "Avengers level, but like if it was succession mixed with suits" line. All three are kept.
+- The situation: "the rad RAD and the humans are now actively trying to eliminate one another."
+- The group: "a group that consists of some humans, some RAD, and a machine called Loading. And then this group is trying to usher in a world where humans and RAD coexist." This fits the July 29 third-side team (archive only) and the 2026-10-07 purple nation, but 10die doesn't name them as the same thing.
+  source: raw/2026-11-16-a-decade-and-the-evernote-export.md
